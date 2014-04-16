@@ -1,4 +1,4 @@
-# Teams
+# National Teams
 
 ## What's `football.db`?
 
@@ -13,10 +13,9 @@ Free open public domain football data for the world's national teams.
 Example:
 
 ~~~
-### National Teams
-
 esp, Spain,       ESP, es
 ita, Italy,       ITA, it
+...
 
 arg, Argentina,   ARG, ar
 bra, Brazil,      BRA, br
