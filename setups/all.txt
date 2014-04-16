@@ -1,0 +1,12 @@
+##############
+# All teams
+
+africa/teams
+asia/teams
+caribbean/teams
+central-america/teams
+europe/teams
+middle-east/teams
+north-america/teams
+pacific/teams
+south-america/teams
