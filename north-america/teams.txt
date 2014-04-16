@@ -1,0 +1,8 @@
+####################
+# North America
+
+mex, Mexico,        MEX, mx
+usa, United States, USA, us
+can, Canada,        CAN, ca
+
+

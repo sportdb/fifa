@@ -1,0 +1,14 @@
+############################
+# Caribbean Islands
+
+jam, Jamaica,       JAM, jm
+cub, Cuba,          CUB, cu
+hai, Haiti,         HAI, ht
+
+tri, Trinidad and Tobago, TRI, tt
+grn, Grenada,       GRN, gd
+
+
+gpe, Guadeloupe,    GPE, gp
+mtq, Martinique,    MTQ, mq
+

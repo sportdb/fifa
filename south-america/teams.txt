@@ -1,0 +1,23 @@
+#############################
+#  South America 
+
+
+# (10 teams)
+#  see www.fifa.com/worldcup/preliminaries/southamerica/teams
+
+arg, Argentina,   ARG, ar
+bra, Brazil,      BRA, br
+chi, Chile,       CHI, cl
+par, Paraguay,    PAR, py
+uru, Uruguay,     URU, uy
+col, Colombia,    COL, co
+ecu, Ecuador,     ECU, ec
+per, Peru,        PER, pe
+ven, Venezuela,   VEN, ve
+bol, Bolivia,     BOL, bo
+
+
+# NB: guyana and suriname are part of north/central & caribbean according to fifa
+
+guy, Guyana,        GUY, gy
+

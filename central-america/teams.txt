@@ -1,0 +1,10 @@
+######################
+# Central America
+
+hon, Honduras,      HON, hn
+crc, Costa Rica,    CRC, cr
+slv, El Salvador,   SLV, sv
+pan, Panama,        PAN, pa
+gua, Guatemala,     GUA, gt
+blz, Belize,        BLZ, bz
+
