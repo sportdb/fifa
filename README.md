@@ -9,7 +9,7 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for the world's national selection teams.
+Free open public domain football data for the world's national teams.
 Example:
 
 ~~~
