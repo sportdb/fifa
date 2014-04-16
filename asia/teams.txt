@@ -1,0 +1,10 @@
+#############################
+# Asia
+#
+# note: australia is listed in pacific (oceania)
+
+jpn, Japan,        JPN, jp
+prk, North Korea,  PRK, kp
+kor, South Korea,  KOR, kr
+
+

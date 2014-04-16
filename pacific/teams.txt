@@ -1,0 +1,11 @@
+###############################
+# Oceania w/ Australia
+
+
+aus, Australia,    AUS, au
+  
+nzl, New Zealand,  NZL, nz
+tah, Tahiti,       TAH, pf
+
+# NB: pf = stands for Polynésie Française in french
+
