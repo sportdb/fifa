@@ -1,27 +1,86 @@
 ########################
 # Africa
 
-alg, Algeria,        ALG, dz
-mar, Morocco,        MAR, ma
-tun, Tunisia,        TUN, tn
-egy, Egypt,          EGY, eg
+# -- 53 (?) or 52 (?) national teams -- check cout?
 
-civ, Côte d'Ivoire,  CIV, ci
-gha, Ghana,          GHA, gh
-cmr, Cameroon,       CMR, cm
-nga, Nigeria,        NGA, ng
-cpv, Cape Verde,     CPV, cv
-ang, Angola,         ANG, ao
-mli, Mali,           MLI, ml
-cod, Congo DR,       COD, cd
-nig, Niger,          NIG, ne
-bfa, Burkina Faso,   BFA, bf
-zam, Zambia,         ZAM, zm
-eth, Ethiopia,       ETH, et
-tog, Togo,           TOG, tg
-rsa, South Africa,   RSA, za
+###################
+# Eastern Africa
+
+bdi, Burundi,    BDI, bi
+com, Comoros,    COM, km
+dji, Djibouti,   DJI, dj
+eri, Eritrea,    ERI, er
+eth, Ethiopia,   ETH, et
+ken, Kenya,      KEN, ke
+mad, Madagascar, MAD, mg
+mwi, Malawi,     MWI, mw
+mri, Mauritius,  MRI, mu
+moz, Mozambique, MOZ, mz
+rwa, Rwanda,     RWA, rw
+
+## NB: sc renamed to yc (sc used for Scottland) -- fix: rename back to orginal!!! - use sco for scotland!!
+sey, Seychelles, SEY, yc
+
+som, Somalia,    SOM, so
+tan, Tanzania,   TAN, tz
+uga, Uganda,     UGA, ug
+zam, Zambia,     ZAM, zm
+zim, Zimbabwe,   ZIM, zw
+
+######################
+# Central Africa
+
+ang, Angola,   ANG,  ao
+cmr, Cameroon, CMR,  cm
+cta, Central African Republic|C. Afr. Rep., CTA, cf
+cha, Chad,     CHA,  td
+cgo, Congo|Congo-Brazzaville|Congo-Brazz.,  CGO,  cg
+cod, Congo DR|Congo-Kinshasa|Congo-Kinsh.,  COD,  cd
+eqg, Equatorial Guinea|Equat. Guinea, EQG, gq
+gab, Gabon,    GAB,  ga
+stp, São Tomé and Príncipe|São Tomé e Príncipe|São Tomé/Pr., STP, st
 
 
-sen, Senegal,        SEN, sn
+
+###############
+# Northern Africa
+
+alg, Algeria,     ALG, dz
+egy, Egypt,       EGY, eg
+mar, Morocco,     MAR, ma
+lby, Libya,       LBY, ly
+tun, Tunisia,     TUN, tn
+ssd, South Sudan, SSD, ss
+sdn, Sudan,       SDN, sd
 
 
+
+################
+# Southern Africa
+
+rsa, South Africa, RSA, za
+bot, Botswana,     BOT, bw
+les, Lesotho,      LES, ls
+nam, Namibia,      NAM, na
+swz, Swaziland,    SWZ, sz
+
+
+###################
+# Western Africa
+
+ben, Benin,         BEN, bj
+bfa, Burkina Faso,  BFA, bf
+cpv, Cape Verde,    CPV, cv
+civ, Côte d'Ivoire, CIV, ci
+gam, Gambia,        GAM, gm
+gha, Ghana,         GHA, gh
+gui, Guinea,        GUI, gn
+gnb, Guinea-Bissau|Guinea Bissau, GNB, gw
+lbr, Liberia,       LBR, lr
+mli, Mali,          MLI, ml
+mtn, Mauritania,    MTN, mr
+nig, Niger,         NIG, ne
+nga, Nigeria,       NGA, ng
+sen, Senegal,       SEN, sn
+sle, Sierra Leone,  SLE, sl
+tog, Togo,          TOG, tg
