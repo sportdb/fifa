@@ -1,7 +1,29 @@
 ##################
 # Middle East
 
-irq, Iraq,         IRQ, iq
-irn, Iran,         IRN, ir
-jor, Jordan,       JOR, jo
+# note: israel is listed here (uefa member)
+
+
+### arabian peninsula
+
+bhr, Bahrain,      BHR, bh
+kuw, Kuwait,       KUW, kw
+oma, Oman,         OMA, om
+qat, Qatar,        QAT, qa
+ksa, Saudi Arabia, KSA, sa
+uae, United Arab Emirates|UA Emirates, UAE, ae
+yem, Yemen,        YEM, ye
+
+### fertile crescent
+
+irq, Iraq,   IRQ, iq
+isr, Israel, ISR, il
+jor, Jordan, JOR, jo
+lib, Lebanon, LIB, lb
+ple, Palestine, PLE, ps
+syr, Syria, SYR, sy
+
+### iranian Plateau
+
+irn, Iran, IRN, ir
 

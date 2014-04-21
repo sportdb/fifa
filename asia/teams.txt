@@ -2,9 +2,60 @@
 # Asia
 #
 # note: australia is listed in pacific (oceania)
+# note: kazakhstan is listed here (not europe/uefa)
+
+
+#######################
+#  central asia
+
+kaz, Kazakhstan,   KAZ, kz
+kgz, Kyrgyzstan,   KGZ, kg
+tjk, Tajikistan,   TJK, tj
+tkm, Turkmenistan, TKM, tm 
+uzb, Uzbekistan,   UZB, uz
+
+################
+# east asia
 
 jpn, Japan,        JPN, jp
 prk, North Korea,  PRK, kp
-kor, South Korea,  KOR, kr
+kor, South Korea,  KOR, kr  
+chn, China,        CHN, cn
+tpe, Taiwan,       TPE, tw
+mgl, Mongolia,     MGL, mn
 
+
+###################
+# south asia
+
+pak, Pakistan,    PAK, pk
+ind, India,       IND, in
+ban, Bangladesh,  BAN, bd
+nep, Nepal,       NEP, np
+sri, Sri Lanka,   SRI, lk
+bhu, Bhutan,      BHU, bt
+mdv, Maldives,    MDV, mv
+afg, Afghanistan, AFG, af
+
+
+########################
+# southeast asia
+
+idn, Indonesia,   IDN, id
+mas, Malaysia,    MAS, my
+sin, Singapore,   SIN, sg
+tha, Thailand,    THA, th
+phi, Philippines, PHI, ph
+vie, Vietnam,     VIE, vn
+bru, Brunei,      BRU, bn
+mya, Myanmar,     MYA, mm
+cam, Cambodia,    CAM, kh
+tls, Timor-Leste|East Timor, TLS, tl
+lao, Laos,        LAO, la
+
+################
+# dependencies
+
+hkg, Hong Kong,  HKG, hk
+mac, Macau|Macao,  MAC, mo
 
