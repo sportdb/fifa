@@ -10,7 +10,7 @@ esp, Spain,            ESP, es
 fin, Finland,          FIN, fi
 fra, France,           FRA, fr
 gre, Greece,           GRE, gr
-irl, Irland,           IRL, ie
+irl, Ireland,          IRL, ie
 ita, Italy,            ITA, it
 lux, Luxembourg,       LUX, lu
 mlt, Malta,            MLT, mt
