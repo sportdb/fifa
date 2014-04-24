@@ -1,43 +1,62 @@
 #######################
 # Europe
 
-pol, Poland,        POL, pl
-gre, Greece, GRE, gr
-rus, Russia,     RUS, ru
+aut, Austria,          AUT, at
+bel, Belgium,          BEL, be
+cyp, Cyprus,           CYP, cy
+ger, Germany,          GER, de
+est, Estonia,          EST, ee
+esp, Spain,            ESP, es
+fin, Finland,          FIN, fi
+fra, France,           FRA, fr
+gre, Greece,           GRE, gr
+irl, Irland,           IRL, ie
+ita, Italy,            ITA, it
+lux, Luxembourg,       LUX, lu
+mlt, Malta,            MLT, mt
+ned, Netherlands,      NED, nl
+por, Portugal,         POR, pt
+svk, Slovakia,         SVK, sk
+svn, Slovenia,         SVN, si
+bul, Bulgaria,         BUL, bg
+den, Denmark,          DEN, dk
+lva, Latvija|Latvia,   LVA, lv
+ltu, Lithuania,        LTU, lt
+pol, Poland,           POL, pl
+rou, Romania,          ROU, ro
+swe, Sweden,           SWE, se
 cze, Czech Republic,   CZE, cz
-ned, Netherlands,  NED, nl
-den, Denmark,     DEN, dk
-ger, Germany,  GER, de
-por, Portugal,     POR, pt
-esp, Spain,      ESP, es
-ita, Italy,      ITA, it
-irl, Irland,       IRL, ie
+hun, Hungary,          HUN, hu
+
+
+and, Andorra,     AND, ad
+alb, Albania,     ALB, al
+blr, Belarus,     BLR, by
+sui, Switzerland, SUI, ch
 cro, Croatia,     CRO, hr
-ukr, Ukraine,      UKR, ua
-swe, Sweden,     SWE, se
-fra, France,   FRA, fr
-eng, England,      ENG, en
-
-## some more teams for world cup quali
-
-fro, Faroe Islands,  FRO, fo
-kaz, Kazakhstan,   KAZ, kz
-aut, Austria,   AUT, at
-blr, Belarus, BLR, by
-fin, Finland,     FIN, fi
-geo, Georgia,     GEO, ge
-  
-## some more teams for world cup 2010
-
-sui, Switzerland,      SUI, ch
 srb, Serbia,      SRB, rs
-svn, Slovenia,    SVN, si
-svk, Slovakia,     SVK, sk
-tur, Turkey,  TUR, tr
-rou, Romania,   ROU, ro
-isl, Iceland, ISL, is
-bel, Belgium, BEL, be
-
-## some more teams for world cup 2014
+rus, Russia,      RUS, ru
+tur, Turkey,      TUR, tr
+ukr, Ukraine,     UKR, ua
+mkd, Macedonia,   MKD, mk
+nor, Norway,      NOR, no
+isl, Iceland,     ISL, is
 
 bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia, BIH, ba
+lie, Liechtenstein,          LIE, li
+mne, Montenegro,             MNE, me
+mda, Moldova,                MDA, md
+smr, San Marino,             SMR, sm
+
+geo, Georgia,      GEO, ge
+arm, Armenia,      ARM, am
+aze, Azerbaijan,   AZE, az
+
+
+eng, England,       ENG, en
+sco, Scotland,      SCO, sc
+wal, Wales,         WAL, wa
+nir, Northern Ireland, NIR, nd
+
+fro, Faroe Islands,  FRO, fo
+gib, Gibraltar,      GIB, gi
