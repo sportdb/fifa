@@ -42,7 +42,7 @@ mkd, Macedonia,   MKD, mk
 nor, Norway,      NOR, no
 isl, Iceland,     ISL, is
 
-bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia, BIH, ba
+bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia|Bosnia-Herz., BIH, ba
 lie, Liechtenstein,          LIE, li
 mne, Montenegro,             MNE, me
 mda, Moldova,                MDA, md
@@ -56,7 +56,7 @@ aze, Azerbaijan,   AZE, az
 eng, England,       ENG, en
 sco, Scotland,      SCO, sc
 wal, Wales,         WAL, wa
-nir, Northern Ireland, NIR, nd
+nir, Northern Ireland|N. Ireland, NIR, nd
 
 fro, Faroe Islands,  FRO, fo
 gib, Gibraltar,      GIB, gi
