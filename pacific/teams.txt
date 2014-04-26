@@ -3,9 +3,32 @@
 
 
 aus, Australia,    AUS, au
-  
-nzl, New Zealand,  NZL, nz
-tah, Tahiti,       TAH, pf
 
+
+
+##############
+# Melanesia
+
+png, Papua New Guinea|Papua N.G., PNG, pg
+fij, Fiji, FIJ, fj
+sol, Solomon Islands|Solomon Isl., SOL, sb
+van, Vanuatu, VAN, vu
+
+
+##############
+# Polynesia
+
+nzl, New Zealand,  NZL, nz
+sam, Samoa,        SAM, ws
+tga, Tonga,        TGA, to
+
+
+
+tah, Tahiti,       TAH, pf
 # NB: pf = stands for Polynésie Française in french
+
+ncl,  New Caledonia,  NCL,   nc
+asm,  American Samoa|Am. Samoa, ASM,   as
+gum,  Guam,           GUM,   gu
+cok,  Cook Islands,   COK,   ck
 
