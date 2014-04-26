@@ -3,12 +3,36 @@
 
 jam, Jamaica,       JAM, jm
 cub, Cuba,          CUB, cu
+dom, Dominican Republic, DOM, do
 hai, Haiti,         HAI, ht
 
-tri, Trinidad and Tobago, TRI, tt
-grn, Grenada,       GRN, gd
 
+atg, Antigua and Barbuda|Antigua/Barb., ATG, ag
+bah, Bahamas, BAH,  bs
+brb, Barbados, BRB, bb
+dma, Dominica, DMA, dm
+grn, Grenada, GRN,  gd
+skn, Saint Kitts and Nevis|St. Kitts/N., SKN,  kn
+lca, Saint Lucia, LCA,  lc
+vin, Saint Vincent and the Grenadines|St.Vincent/G., VIN,  vc
+tri, Trinidad and Tobago|Trinidad/Tob., TRI,  tt
+
+
+pur, Puerto Rico,  PUR, pr
+vir, United States Virgin Islands|US Virgin Islands|U.S. Virgin Islands|US Virgin I., VIR,  vi
 
 gpe, Guadeloupe,    GPE, gp
 mtq, Martinique,    MTQ, mq
+
+
+abw, Aruba,   ABW, aw 
+cuw, Curaçao, CUW, cw
+
+
+aia, Anguilla,    AIA,  ai
+bmu, Bermuda,      BMU, bm
+cym, Cayman Islands|Cayman Isl., CYM, ky
+msr, Montserrat,     MSR, ms
+tca, Turks and Caicos Islands, TCA, tc
+vgb, British Virgin Islands, VGB, vg
 
