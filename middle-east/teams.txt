@@ -3,27 +3,24 @@
 
 # note: israel is listed here (uefa member)
 
+isr, Israel, ISR, il, fifa|uefa
 
-### arabian peninsula
 
-bhr, Bahrain,      BHR, bh
-kuw, Kuwait,       KUW, kw
-oma, Oman,         OMA, om
-qat, Qatar,        QAT, qa
-ksa, Saudi Arabia, KSA, sa
-uae, United Arab Emirates|UA Emirates, UAE, ae
-yem, Yemen,        YEM, ye
+##########################################
+# WAFF (West Asian Football Federation)
+# - 13 members
 
-### fertile crescent
-
-irq, Iraq,   IRQ, iq
-isr, Israel, ISR, il
-jor, Jordan, JOR, jo
-lib, Lebanon, LIB, lb
-ple, Palestine, PLE, ps
-syr, Syria, SYR, sy
-
-### iranian Plateau
-
-irn, Iran, IRN, ir
+bhr, Bahrain,      BHR, bh,  fifa|afc|waff
+irn, Iran, IRN, ir,  fifa|afc|waff
+irq, Iraq,   IRQ, iq,  fifa|afc|waff
+jor, Jordan, JOR, jo,  fifa|afc|waff
+kuw, Kuwait,       KUW, kw,  fifa|afc|waff
+lib, Lebanon, LIB, lb,  fifa|afc|waff
+oma, Oman,         OMA, om,  fifa|afc|waff
+ple, Palestine, PLE, ps,  fifa|afc|waff
+qat, Qatar,        QAT, qa,  fifa|afc|waff
+ksa, Saudi Arabia, KSA, sa,  fifa|afc|waff
+syr, Syria, SYR, sy,  fifa|afc|waff
+uae, United Arab Emirates|UA Emirates, UAE, ae,  fifa|afc|waff
+yem, Yemen,        YEM, ye,  fifa|afc|waff
 

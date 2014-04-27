@@ -2,8 +2,11 @@
 # Oceania w/ Australia
 
 
-aus, Australia,    AUS, au
+aus, Australia,    AUS, au, fifa|afc|aff
+gum, Guam,         GUM, gu, fifa|afc|eaff
+mnp, Northern Mariana Islands, MNP, mp,  afc|eaff   # note: not a FIFA member
 
+plw, Palau, PLW, pw    # note: not a FIFA member and AFC membership pending
 
 
 ##############
@@ -29,6 +32,5 @@ tah, Tahiti,       TAH, pf
 
 ncl,  New Caledonia,  NCL,   nc
 asm,  American Samoa|Am. Samoa, ASM,   as
-gum,  Guam,           GUM,   gu
 cok,  Cook Islands,   COK,   ck
 

@@ -5,57 +5,64 @@
 # note: kazakhstan is listed here (not europe/uefa)
 
 
-#######################
-#  central asia
-
-kaz, Kazakhstan,   KAZ, kz
-kgz, Kyrgyzstan,   KGZ, kg
-tjk, Tajikistan,   TJK, tj
-tkm, Turkmenistan, TKM, tm 
-uzb, Uzbekistan,   UZB, uz
-
-################
-# east asia
-
-jpn, Japan,        JPN, jp
-prk, North Korea,  PRK, kp
-kor, South Korea,  KOR, kr  
-chn, China,        CHN, cn
-tpe, Taiwan,       TPE, tw
-mgl, Mongolia,     MGL, mn
+kaz, Kazakhstan,   KAZ, kz, fifa|uefa
 
 
-###################
-# south asia
-
-pak, Pakistan,    PAK, pk
-ind, India,       IND, in
-ban, Bangladesh,  BAN, bd
-nep, Nepal,       NEP, np
-sri, Sri Lanka,   SRI, lk
-bhu, Bhutan,      BHU, bt
-mdv, Maldives,    MDV, mv
-afg, Afghanistan, AFG, af
+# AFC (Asian Football Confederation), 4 sub-federations
+#  46+1 members
 
 
-########################
-# southeast asia
+#########################################################
+# CSAFF (Central and South Asian Football Federation)
+# - 12 members
 
-idn, Indonesia,   IDN, id
-mas, Malaysia,    MAS, my
-sin, Singapore,   SIN, sg
-tha, Thailand,    THA, th
-phi, Philippines, PHI, ph
-vie, Vietnam,     VIE, vn
-bru, Brunei,      BRU, bn
-mya, Myanmar,     MYA, mm
-cam, Cambodia,    CAM, kh
-tls, Timor-Leste|East Timor, TLS, tl
-lao, Laos,        LAO, la
+afg, Afghanistan, AFG, af, fifa|afc|csaff
+ban, Bangladesh,  BAN, bd, fifa|afc|csaff
+bhu, Bhutan,      BHU, bt, fifa|afc|csaff
+ind, India,       IND, in, fifa|afc|csaff
+kgz, Kyrgyzstan,   KGZ, kg, fifa|afc|csaff
+mdv, Maldives,    MDV, mv, fifa|afc|csaff
+nep, Nepal,       NEP, np, fifa|afc|csaff
+pak, Pakistan,    PAK, pk, fifa|afc|csaff
+sri, Sri Lanka,   SRI, lk, fifa|afc|csaff
+tjk, Tajikistan,   TJK, tj, fifa|afc|csaff
+tkm, Turkmenistan, TKM, tm, fifa|afc|csaff 
+uzb, Uzbekistan,   UZB, uz, fifa|afc|csaff
 
-################
-# dependencies
 
-hkg, Hong Kong,  HKG, hk
-mac, Macau|Macao,  MAC, mo
+#########################################
+# EAFF (East Asian Football Federation)
+# - 10 members
+
+chn, China,        CHN, cn, fifa|afc|eaff
+hkg, Hong Kong,    HKG, hk, fifa|afc|eaff
+jpn, Japan,        JPN, jp, fifa|afc|eaff
+prk, North Korea,  PRK, kp, fifa|afc|eaff
+kor, South Korea,  KOR, kr, fifa|afc|eaff
+mac, Macau|Macao,  MAC, mo, fifa|afc|eaff
+mgl, Mongolia,     MGL, mn, fifa|afc|eaff
+tpe, Taiwan,       TPE, tw, fifa|afc|eaff
+
+# note: member Guam listed in pacific
+# note: member Northern Mariana Islands listed in pacific
+# note: candidate member Palau listed in pacific
+
+
+####################################################################
+# AFF (Association of South East Asian Nations Football Federation)
+# - 12 members
+
+bru, Brunei,      BRU, bn,  fifa|afc|aff
+cam, Cambodia,    CAM, kh,  fifa|afc|aff
+idn, Indonesia,   IDN, id,  fifa|afc|aff
+lao, Laos,        LAO, la,  fifa|afc|aff
+mas, Malaysia,    MAS, my,  fifa|afc|aff
+mya, Myanmar,     MYA, mm,  fifa|afc|aff
+phi, Philippines, PHI, ph,  fifa|afc|aff
+sin, Singapore,   SIN, sg,  fifa|afc|aff
+tha, Thailand,    THA, th,  fifa|afc|aff
+tls, Timor-Leste|East Timor, TLS, tl,  fifa|afc|aff
+vie, Vietnam,     VIE, vn,  fifa|afc|aff
+
+# note: member Australia listed in pacific
 
