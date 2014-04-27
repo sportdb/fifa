@@ -1,0 +1,71 @@
+
+[fifa]
+  Fédération Internationale de Football Association (FIFA), 1904
+  World
+  www.fifa.com
+  en.wikipedia: FIFA
+  # Zürich, Switzerland
+  # 209 member assocs
+
+## assume all upcase is Abbreviation
+## assume all downcase w/ only [a-z] (if not last entry) is parent assoc (e.g. fifa)
+
+
+[uefa]
+  Union of European Football Associations (UEFA), 1954
+  Europe
+  www.uefa.com
+  en.wikipedia:UEFA
+  parent:fifa    # find better style?  use header line for all? use [uefa/fifa] ?
+  # Nyon, Switzerland
+  # 54 member assocs
+
+# note: incl. Israel, Kazakhstan (from Asia)
+
+
+[conmebol]
+  Confederación Sudamericana de Fútbol (CONMEBOL), 1916
+  South America
+  www.conmebol.com
+  en.wikipedia:CONMEBOL
+  # Asunción, Paraguay  (Luque)
+  # 10 member assocs
+
+
+[concacaf]
+  Confederation of North\, Central American and Caribbean Association Football (CONCACAF), 1961
+  North, Central America & Caribbean
+  www.concacaf.com
+  en.wikipedia:CONCACAF
+  # Miami, Florida, United States
+  # 41 member assocs
+  # - 31 from the Caribbean
+  # - 7 from Central America
+  # - 3 from North America
+# note: incl. French Guiana, Guyana and Suriname members (from South America) 
+
+
+[caf]
+  Confederation of African Football (CAF), 1957 
+  Africa
+  www.cafonline.com
+  en.wikipedia:Confederation_of_African_Football
+  # Cairo, Egypt (6th of October City)
+  # 56 member assocs
+
+[afc]
+  Asian Football Confederation (AFC), 1954
+  Asia
+  www.the-afc.com
+  en.wikipedia:Asian_Football_Confederation
+  # Kuala Lumpur, Malaysia
+  # 46+1 member assocs
+
+# note: incl. Australia member since 2006 (from Pacific/Oceania)
+
+
+[ofc]
+  Oceania Football Confederation (OFC), 1966
+  Pacific  # Oceania
+
+

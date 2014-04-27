@@ -1,0 +1,38 @@
+#######################################################
+# internationl tournaments & cups w/ national teams
+
+#############
+# -- FIFA
+
+world,                       World Cup
+
+world.quali.europe,          World Cup Quali Europe
+world.quali.northamerica,    World Cup Quali North/Central America and Caribbean
+world.quali.southamerica,    World Cup Quali South America
+world.quali.africa,          World Cup Quali Africa
+world.quali.asia,            World Cup Quali Asia (w/ Australia)
+world.quali.pacific,         World Cup Quali Oceania
+world.quali.playoffs,        World Cup Quali Intercontinental Playoffs
+
+world.confed,                Confederations Cup
+
+
+#######################################################
+# -- UEFA (Union of European Football Associations)
+
+euro,                        European Championship
+
+############################################
+# -- CONMEBOL (Confederación Sudamericana de Fútbol)
+
+??,  Copa América    
+
+##########################################
+# -- AFC (Asian Football Confederation)
+
+asia,                        Asian Cup
+
+
+
+
+
