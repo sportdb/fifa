@@ -2,22 +2,26 @@
 #  South America 
 
 
-# (10 teams)
-#  see www.fifa.com/worldcup/preliminaries/southamerica/teams
+# CONMEBOL (Confederación Sudamericana de Fútbol)
+# - 10 members
+#   see www.fifa.com/worldcup/preliminaries/southamerica/teams
 
-arg, Argentina,   ARG, ar
-bra, Brazil,      BRA, br
-chi, Chile,       CHI, cl
-par, Paraguay,    PAR, py
-uru, Uruguay,     URU, uy
-col, Colombia,    COL, co
-ecu, Ecuador,     ECU, ec
-per, Peru,        PER, pe
-ven, Venezuela,   VEN, ve
-bol, Bolivia,     BOL, bo
+arg, Argentina,   ARG, ar, fifa|conmebol
+bra, Brazil,      BRA, br, fifa|conmebol
+chi, Chile,       CHI, cl, fifa|conmebol
+par, Paraguay,    PAR, py, fifa|conmebol
+uru, Uruguay,     URU, uy, fifa|conmebol
+col, Colombia,    COL, co, fifa|conmebol
+ecu, Ecuador,     ECU, ec, fifa|conmebol
+per, Peru,        PER, pe, fifa|conmebol
+ven, Venezuela,   VEN, ve, fifa|conmebol
+bol, Bolivia,     BOL, bo, fifa|conmebol
 
 
-# NB: guyana and suriname are part of north/central & caribbean according to fifa
+# NB: guyana, suriname n french guiana
+#  are part of north/central & caribbean according to fifa/concacaf
 
-guy, Guyana,        GUY, gy
+guy, Guyana,        GUY, gy,  fifa|concacaf|cfu
+sur, Suriname,      SUR, sr,  fifa|concacaf|cfu
+gyf, French Guiana, GYF, gf,  concacaf|cfu   # note: not a member of fifa
 

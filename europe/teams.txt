@@ -1,62 +1,73 @@
 #######################
 # Europe
 
-aut, Austria,          AUT, at
-bel, Belgium,          BEL, be
-cyp, Cyprus,           CYP, cy
-ger, Germany,          GER, de
-est, Estonia,          EST, ee
-esp, Spain,            ESP, es
-fin, Finland,          FIN, fi
-fra, France,           FRA, fr
-gre, Greece,           GRE, gr
-irl, Ireland,          IRL, ie
-ita, Italy,            ITA, it
-lux, Luxembourg,       LUX, lu
-mlt, Malta,            MLT, mt
-ned, Netherlands,      NED, nl
-por, Portugal,         POR, pt
-svk, Slovakia,         SVK, sk
-svn, Slovenia,         SVN, si
-bul, Bulgaria,         BUL, bg
-den, Denmark,          DEN, dk
-lva, Latvija|Latvia,   LVA, lv
-ltu, Lithuania,        LTU, lt
-pol, Poland,           POL, pl
-rou, Romania,          ROU, ro
-swe, Sweden,           SWE, se
-cze, Czech Republic,   CZE, cz
-hun, Hungary,          HUN, hu
+# note: uefa members Israel n Kazakhstan listed in Asia
 
 
-and, Andorra,     AND, ad
-alb, Albania,     ALB, al
-blr, Belarus,     BLR, by
-sui, Switzerland, SUI, ch
-cro, Croatia,     CRO, hr
-srb, Serbia,      SRB, rs
-rus, Russia,      RUS, ru
-tur, Turkey,      TUR, tr
-ukr, Ukraine,     UKR, ua
-mkd, Macedonia,   MKD, mk
-nor, Norway,      NOR, no
-isl, Iceland,     ISL, is
-
-bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia|Bosnia-Herz., BIH, ba
-lie, Liechtenstein,          LIE, li
-mne, Montenegro,             MNE, me
-mda, Moldova,                MDA, md
-smr, San Marino,             SMR, sm
-
-geo, Georgia,      GEO, ge
-arm, Armenia,      ARM, am
-aze, Azerbaijan,   AZE, az
+############
+# UEFA (Union of European Football Associations)
+# - 54 members
 
 
-eng, England,       ENG, en
-sco, Scotland,      SCO, sc
-wal, Wales,         WAL, wa
-nir, Northern Ireland|N. Ireland, NIR, nd
+aut, Austria,          AUT, at, fifa|uefa
+bel, Belgium,          BEL, be, fifa|uefa
+cyp, Cyprus,           CYP, cy, fifa|uefa
+ger, Germany,          GER, de, fifa|uefa
+est, Estonia,          EST, ee, fifa|uefa
+esp, Spain,            ESP, es, fifa|uefa
+fin, Finland,          FIN, fi, fifa|uefa
+fra, France,           FRA, fr, fifa|uefa
+gre, Greece,           GRE, gr, fifa|uefa
+irl, Ireland,          IRL, ie, fifa|uefa
+ita, Italy,            ITA, it, fifa|uefa
+lux, Luxembourg,       LUX, lu, fifa|uefa
+mlt, Malta,            MLT, mt, fifa|uefa
+ned, Netherlands,      NED, nl, fifa|uefa
+por, Portugal,         POR, pt, fifa|uefa
+svk, Slovakia,         SVK, sk, fifa|uefa
+svn, Slovenia,         SVN, si, fifa|uefa
+bul, Bulgaria,         BUL, bg, fifa|uefa
+den, Denmark,          DEN, dk, fifa|uefa
+lva, Latvija|Latvia,   LVA, lv, fifa|uefa
+ltu, Lithuania,        LTU, lt, fifa|uefa
+pol, Poland,           POL, pl, fifa|uefa
+rou, Romania,          ROU, ro, fifa|uefa
+swe, Sweden,           SWE, se, fifa|uefa
+cze, Czech Republic,   CZE, cz, fifa|uefa
+hun, Hungary,          HUN, hu, fifa|uefa
 
-fro, Faroe Islands,  FRO, fo
-gib, Gibraltar,      GIB, gi
+
+and, Andorra,     AND, ad, fifa|uefa
+alb, Albania,     ALB, al, fifa|uefa
+blr, Belarus,     BLR, by, fifa|uefa
+sui, Switzerland, SUI, ch, fifa|uefa
+cro, Croatia,     CRO, hr, fifa|uefa
+srb, Serbia,      SRB, rs, fifa|uefa
+rus, Russia,      RUS, ru, fifa|uefa
+tur, Turkey,      TUR, tr, fifa|uefa
+ukr, Ukraine,     UKR, ua, fifa|uefa
+mkd, Macedonia,   MKD, mk, fifa|uefa
+nor, Norway,      NOR, no, fifa|uefa
+isl, Iceland,     ISL, is, fifa|uefa
+
+bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia|Bosnia-Herz., BIH, ba, fifa|uefa
+lie, Liechtenstein,          LIE, li, fifa|uefa
+mne, Montenegro,             MNE, me, fifa|uefa
+mda, Moldova,                MDA, md, fifa|uefa
+smr, San Marino,             SMR, sm, fifa|uefa
+
+geo, Georgia,      GEO, ge, fifa|uefa
+arm, Armenia,      ARM, am, fifa|uefa
+aze, Azerbaijan,   AZE, az, fifa|uefa
+
+###
+# fix: use three-letter country codes e.g. use eng,wal,nir,sco,etc.!!!
+eng, England,       ENG, en, fifa|uefa
+sco, Scotland,      SCO, sc, fifa|uefa
+wal, Wales,         WAL, wa, fifa|uefa
+nir, Northern Ireland|N. Ireland, NIR, nd, fifa|uefa
+
+fro, Faroe Islands,  FRO, fo, fifa|uefa
+
+
+gib, Gibraltar,      GIB, gi, uefa   # note: not a FIFA member

@@ -6,31 +6,39 @@ aus, Australia,    AUS, au, fifa|afc|aff
 gum, Guam,         GUM, gu, fifa|afc|eaff
 mnp, Northern Mariana Islands, MNP, mp,  afc|eaff   # note: not a FIFA member
 
-plw, Palau, PLW, pw    # note: not a FIFA member and AFC membership pending
+
+### plw, Palau, PLW, pw    # note: not a FIFA member and AFC membership pending
 
 
-##############
-# Melanesia
+#########################################
+# OFC (Oceania Football Confederation)
+# - 14 members (11 full)
 
-png, Papua New Guinea|Papua N.G., PNG, pg
-fij, Fiji, FIJ, fj
-sol, Solomon Islands|Solomon Isl., SOL, sb
-van, Vanuatu, VAN, vu
-
-
-##############
-# Polynesia
-
-nzl, New Zealand,  NZL, nz
-sam, Samoa,        SAM, ws
-tga, Tonga,        TGA, to
-
-
-
-tah, Tahiti,       TAH, pf
+asm,  American Samoa|Am. Samoa, ASM,   as,  fifa|ofc
+cok,  Cook Islands,   COK,   ck,  fifa|ofc
+fij, Fiji, FIJ, fj,  fifa|ofc
+ncl,  New Caledonia,  NCL,   nc,  fifa|ofc
+nzl, New Zealand,  NZL, nz,  fifa|ofc
+png, Papua New Guinea|Papua N.G., PNG, pg,  fifa|ofc
+sam, Samoa,        SAM, ws,  fifa|ofc
+sol, Solomon Islands|Solomon Isl., SOL, sb,  fifa|ofc
+tah, Tahiti,       TAH, pf,  fifa|ofc
 # NB: pf = stands for Polynésie Française in french
+tga, Tonga,        TGA, to,  fifa|ofc
+van, Vanuatu, VAN, vu,  fifa|ofc
 
-ncl,  New Caledonia,  NCL,   nc
-asm,  American Samoa|Am. Samoa, ASM,   as
-cok,  Cook Islands,   COK,   ck
+
+####
+# not FIFA members
+
+###
+## todo: check if ofc tag will not get mixed up as three-letter country code?
+##  assume tag if last entry and three-letters? possible?
+## or add dummy letters (e.g) get trimmer e.g. ofc__ or __ofc - hack?
+##   better check for known three letter country code in db (if match)
+#     use country code if no match pass throug to tags!
+
+kir, Kiribati, KIR, ki,  ofc
+niu, Niue, NIU,     nu,  ofc
+tuv, Tuvalu, TUV,   tv,  ofc
 

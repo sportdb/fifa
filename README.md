@@ -13,12 +13,12 @@ Free open public domain football data for the world's national teams.
 Example:
 
 ~~~
-esp, Spain,       ESP, es
-ita, Italy,       ITA, it
+esp, Spain,       ESP, es, fifa|uefa
+ita, Italy,       ITA, it, fifa|uefa
 ...
 
-arg, Argentina,   ARG, ar
-bra, Brazil,      BRA, br
+arg, Argentina,   ARG, ar, fifa|conmebol
+bra, Brazil,      BRA, br, fifa|conmebol
 ...
 ~~~
 

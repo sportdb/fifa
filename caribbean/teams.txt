@@ -1,38 +1,45 @@
 ############################
 # Caribbean Islands
 
-jam, Jamaica,       JAM, jm
-cub, Cuba,          CUB, cu
-dom, Dominican Republic, DOM, do
-hai, Haiti,         HAI, ht
+
+# CONCACAF / CFU (Caribbean Football Union)
+# - 31 members (Caribbean Zone)
+
+# note members Guyana, Suriname, French Guiana listed in south america
 
 
-atg, Antigua and Barbuda|Antigua/Barb., ATG, ag
-bah, Bahamas, BAH,  bs
-brb, Barbados, BRB, bb
-dma, Dominica, DMA, dm
-grn, Grenada, GRN,  gd
-skn, Saint Kitts and Nevis|St. Kitts/N., SKN,  kn
-lca, Saint Lucia, LCA,  lc
-vin, Saint Vincent and the Grenadines|St.Vincent/G., VIN,  vc
-tri, Trinidad and Tobago|Trinidad/Tob., TRI,  tt
+aia, Anguilla,    AIA,  ai,  fifa|concacaf|cfu
+atg, Antigua and Barbuda|Antigua/Barb., ATG, ag,  fifa|concacaf|cfu
+abw, Aruba,   ABW, aw,  fifa|concacaf|cfu 
+bah, Bahamas, BAH,  bs,  fifa|concacaf|cfu
+brb, Barbados, BRB, bb,  fifa|concacaf|cfu
+bmu, Bermuda,      BMU, bm,  fifa|concacaf|cfu
+vgb, British Virgin Islands, VGB, vg,  fifa|concacaf|cfu
+cym, Cayman Islands|Cayman Isl., CYM, ky,  fifa|concacaf|cfu
+cub, Cuba,          CUB, cu,  fifa|concacaf|cfu
+cuw, Curaçao, CUW, cw,  fifa|concacaf|cfu
+dma, Dominica, DMA, dm,  fifa|concacaf|cfu
+dom, Dominican Republic, DOM, do,  fifa|concacaf|cfu
+grn, Grenada, GRN,  gd,  fifa|concacaf|cfu
+hai, Haiti,         HAI, ht,  fifa|concacaf|cfu
+jam, Jamaica,       JAM, jm,  fifa|concacaf|cfu
+msr, Montserrat,     MSR, ms,  fifa|concacaf|cfu
+pur, Puerto Rico,  PUR, pr,  fifa|concacaf|cfu
+skn, Saint Kitts and Nevis|St. Kitts/N., SKN,  kn,  fifa|concacaf|cfu
+lca, Saint Lucia, LCA,  lc,  fifa|concacaf|cfu
+vin, Saint Vincent and the Grenadines|St.Vincent/G., VIN,  vc,  fifa|concacaf|cfu
+tri, Trinidad and Tobago|Trinidad/Tob., TRI,  tt,  fifa|concacaf|cfu
+tca, Turks and Caicos Islands, TCA, tc,  fifa|concacaf|cfu
+vir, United States Virgin Islands|US Virgin Islands|U.S. Virgin Islands|US Virgin I., VIR,  vi,  fifa|concacaf|cfu
 
+####
+# not FIFA members
 
-pur, Puerto Rico,  PUR, pr
-vir, United States Virgin Islands|US Virgin Islands|U.S. Virgin Islands|US Virgin I., VIR,  vi
+bon, Bonaire,      BON, nl,  concacaf|cfu  # note: not a FIFA member
+gpe, Guadeloupe,    GPE, gp,  concacaf|cfu    # note: not a FIFA member
+mtq, Martinique,    MTQ, mq,  concacaf|cfu    # note: not a FIFA member 
+maf, Saint Martin, MAF, mf,   concacaf|cfu    # note: not a FIFA member
 
-gpe, Guadeloupe,    GPE, gp
-mtq, Martinique,    MTQ, mq
-
-
-abw, Aruba,   ABW, aw 
-cuw, Curaçao, CUW, cw
-
-
-aia, Anguilla,    AIA,  ai
-bmu, Bermuda,      BMU, bm
-cym, Cayman Islands|Cayman Isl., CYM, ky
-msr, Montserrat,     MSR, ms
-tca, Turks and Caicos Islands, TCA, tc
-vgb, British Virgin Islands, VGB, vg
+## fix:  use country .sx ?? check world.db to get it listed!!!
+sxm, Sint Maarten, SXM, nl,  concacaf|cfu     # note: not a FIFA member
 
