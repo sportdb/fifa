@@ -1,0 +1,27 @@
+###########################################
+# Former national teams
+#   with former FIFA country codes etc.
+
+
+# note:
+#  can only add to one country - add slovakia too?
+#    or use "neutral"  unclassified/other country?
+tch, Czechoslovakia (-1992), TCH, cz
+
+
+frg, West Germany (-1989), FRG, de
+gdr, East Germany (-1989), GDR, de
+
+
+urs, Soviet Union (-1991), URS, ru
+
+# note:
+#  Federal Republic of Yugoslavia (1992-2003)
+#  Socialist Federal Republic of Yugoslavia (-1992)
+yug, Yugoslavia (-2003), YUG, rs
+
+
+# note:
+#  before independence in 1945 (now called Indonesia)
+dei, Dutch East Indies (-1945), DEI, id
+
