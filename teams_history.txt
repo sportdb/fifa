@@ -25,3 +25,7 @@ yug, Yugoslavia (-2003), YUG, rs
 #  before independence in 1945 (now called Indonesia)
 dei, Dutch East Indies (-1945), DEI, id
 
+
+# today - Congo DR (COD) - .cd 
+
+zai, Zaire (-????), ZAI, cd
