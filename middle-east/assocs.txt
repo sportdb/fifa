@@ -1,0 +1,25 @@
+##################
+# Middle East
+
+# note: israel is listed here (uefa member)
+
+isr, Israel Football Association, ISR, il, fifa|uefa   ## Israel
+
+
+##########################################
+# WAFF (West Asian Football Federation)
+# - 13 members
+
+bhr, Bahrain Football Association,    BHR, bh,  fifa|afc|waff|uafa   ## Bahrain
+irn, Football Federation Islamic Republic of Iran, IRN, ir,  fifa|afc|waff    ## Iran - not a UAFA member?? check why?
+irq, Iraq Football Association,   IRQ, iq,  fifa|afc|waff|uafa   ## Iraq
+jor, Jordan Football Association, JOR, jo,  fifa|afc|waff|uafa   ## Jordan
+kuw, Kuwait Football Association, KUW, kw,  fifa|afc|waff|uafa   ## Kuwait
+lib, Association Libanaise de Football, LIB, lb,  fifa|afc|waff|uafa  ## Lebanon
+oma, Oman Football Association,         OMA, om,  fifa|afc|waff|uafa  ## Oman
+ple, Palestinian Football Association, PLE, ps,  fifa|afc|waff|uafa   ## Palestine
+qat, Qatar Football Association,       QAT, qa,  fifa|afc|waff|uafa   ## Qatar
+ksa, Saudi Arabian Football Federation, KSA, sa,  fifa|afc|waff|uafa  ## Saudi Arabia
+syr, Syrian Arab Federation for Football, SYR, sy,  fifa|afc|waff|uafa  ##  Syria
+uae, United Arab Emirates Football Association, UAE, ae,  fifa|afc|waff|uafa  ## United Arab Emirates
+yem, Yemen Football Association,        YEM, ye,  fifa|afc|waff|uafa   ## Yemen

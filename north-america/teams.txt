@@ -1,11 +1,7 @@
 ####################
 # North America
 
-
-# CONCACAF / NAFU (North American Football Union) 
-# - 3 members (North American Zone)
-
-mex, Mexico,        MEX, mx, fifa|concacaf|nafu
-usa, United States, USA, us, fifa|concacaf|nafu
-can, Canada,        CAN, ca, fifa|concacaf|nafu
+mex, Mexico,        MEX, mx
+usa, United States, USA, us
+can, Canada,        CAN, ca
 

@@ -3,24 +3,18 @@
 
 # note: israel is listed here (uefa member)
 
-isr, Israel, ISR, il, fifa|uefa
+isr, Israel, ISR, il
 
-
-##########################################
-# WAFF (West Asian Football Federation)
-# - 13 members
-
-bhr, Bahrain,      BHR, bh,  fifa|afc|waff|uafa
-irn, Iran, IRN, ir,  fifa|afc|waff    # not a UAFA member?? check why?
-irq, Iraq,   IRQ, iq,  fifa|afc|waff|uafa
-jor, Jordan, JOR, jo,  fifa|afc|waff|uafa
-kuw, Kuwait,       KUW, kw,  fifa|afc|waff|uafa
-lib, Lebanon, LIB, lb,  fifa|afc|waff|uafa
-oma, Oman,         OMA, om,  fifa|afc|waff|uafa
-ple, Palestine, PLE, ps,  fifa|afc|waff|uafa
-qat, Qatar,        QAT, qa,  fifa|afc|waff|uafa
-ksa, Saudi Arabia, KSA, sa,  fifa|afc|waff|uafa
-syr, Syria, SYR, sy,  fifa|afc|waff|uafa
-uae, United Arab Emirates|UA Emirates, UAE, ae,  fifa|afc|waff|uafa
-yem, Yemen,        YEM, ye,  fifa|afc|waff|uafa
-
+bhr, Bahrain,      BHR, bh
+irn, Iran, IRN, ir
+irq, Iraq,   IRQ, iq
+jor, Jordan, JOR, jo
+kuw, Kuwait,       KUW, kw
+lib, Lebanon, LIB, lb
+oma, Oman,         OMA, om
+ple, Palestine, PLE, ps
+qat, Qatar,        QAT, qa
+ksa, Saudi Arabia, KSA, sa
+syr, Syria, SYR, sy
+uae, United Arab Emirates|UA Emirates, UAE, ae
+yem, Yemen,        YEM, ye

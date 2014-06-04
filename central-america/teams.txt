@@ -1,16 +1,10 @@
 ######################
 # Central America
 
-
-# CONCACAF / UNCAF (Unión Centroamericana de Fútbol)
-# - 7 members (Central American Zone)
-
-
-hon, Honduras,      HON, hn, fifa|concacaf|uncaf
-crc, Costa Rica,    CRC, cr, fifa|concacaf|uncaf
-slv, El Salvador,   SLV, sv, fifa|concacaf|uncaf
-pan, Panama,        PAN, pa, fifa|concacaf|uncaf
-gua, Guatemala,     GUA, gt, fifa|concacaf|uncaf
-blz, Belize,        BLZ, bz, fifa|concacaf|uncaf
-nca, Nicaragua,     NCA, ni, fifa|concacaf|uncaf
-
+hon, Honduras,      HON, hn
+crc, Costa Rica,    CRC, cr
+slv, El Salvador,   SLV, sv
+pan, Panama,        PAN, pa
+gua, Guatemala,     GUA, gt
+blz, Belize,        BLZ, bz
+nca, Nicaragua,     NCA, ni
