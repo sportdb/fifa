@@ -1,0 +1,117 @@
+########################
+# Africa
+
+# - CAF (Africa) - 5 regions
+# - 56 members
+
+
+#####################################################
+# UNAF (Union of North African Football Federations)
+# - 5 members (North Zone)
+
+## todo/fix:
+## - keep fifa trigram/code for key? or use abbrevation?
+
+alg, Fédération Algérienne de Football, 1962,   ALG, dz, fifa|caf|unaf|uafa,  www.faf.dz   ## Algeria
+egy, Egyptian Football Association, 1921,     EGY, eg, fifa|caf|unaf|uafa,  www.efa.com.eg   ## Egypt
+mar, Fédération Royale Marocaine de Football, 1955,   MAR, ma, fifa|caf|unaf|uafa,  www.frmf.ma   ## Morocco
+lby, Libyan Football Federation, 1962,    LBY, ly, fifa|caf|unaf|uafa   ## Libya 
+tun, Fédération Tunisienne de Football, 1957,    TUN, tn, fifa|caf|unaf|uafa, www.ftf.org.tn     ## Tunisia
+
+
+####################################
+# WAFU (West Africa Football Union)
+
+# - 9 members (Zone West A)
+
+cpv, Federação Caboverdiana de Futebol, 1982,   CPV, cv, fifa|caf|wafu,  www.fcf.cv   ## Cape Verde
+gam, Gambia Football Federation,  1952,      GAM, gm, fifa|caf|wafu,   www.gambiafa.com   ## Gambia
+gui, Fédération Guinéenne de Football, 1960,       GUI, gn, fifa|caf|wafu     ## Guinea 
+gnb, Federação de Futebol da Guiné-Bissau, 1974, GNB, gw, fifa|caf|wafu   ## Guinea-Bissau|Guinea Bissau
+lbr, Liberia Football Association, 1936,       LBR, lr, fifa|caf|wafu, www.lfa.com.lr   ## Liberia
+mli, Fédération Malienne de Football, 1960,       MLI, ml, fifa|caf|wafu   ## Mali
+mtn, Fédération de Foot-Ball de la Rép. Islamique de Mauritanie, 1961,   MTN, mr, fifa|caf|wafu|uafa, www.ffrim.org   ## Mauritania
+sen, Fédération Sénégalaise de Football,  1960,    SEN, sn, fifa|caf|wafu, www.senegalfoot.sn    ## Senegal
+sle, Sierra Leone Football Association, 1960, SLE, sl, fifa|caf|wafu   ## Sierra Leone
+
+# - 7 members (Zone West B)
+
+ben, Fédération Béninoise de Football,  1962,  BEN, bj, fifa|caf|wafu, www.febefoot.net    ## Benin
+bfa, Fédération Burkinabé de Foot-Ball, 1960,  BFA, bf, fifa|caf|wafu, www.fasofoot.org   ## Burkina Faso
+civ, Fédération Ivoirienne de Football, 1960, CIV, ci, fifa|caf|wafu,  www.fif-ci.com   ## Côte d'Ivoire
+gha, Ghana Football Association,  1957,       GHA, gh, fifa|caf|wafu,  www.ghanafa.org   ## Ghana
+nig, Fédération Nigerienne de Football, 1961,        NIG, ne, fifa|caf|wafu,  www.fenifoot.net   ## Niger
+nga, Nigeria Football Federation,  1945,     NGA, ng, fifa|caf|wafu, www.nigeriafootballng.com    ## Nigeria
+tog, Fédération Togolaise de Football, 1960,   TOG, tg, fifa|caf|wafu,     ## Togo
+
+
+
+#####################################################################
+# UNIFFAC (Union des Fédérations du Football de l'Afrique Centrale)
+# - 8 members (Central Zone)
+
+cmr, Cameroon, CMR,  cm,  fifa|caf|uniffac
+cta, Central African Republic|C. Afr. Rep., CTA, cf,  fifa|caf|uniffac
+cha, Chad,     CHA,  td,  fifa|caf|uniffac
+cgo, Congo|Congo-Brazzaville|Congo-Brazz.,  CGO,  cg,  fifa|caf|uniffac
+cod, Congo DR|Congo-Kinshasa|Congo-Kinsh.,  COD,  cd,  fifa|caf|uniffac
+eqg, Equatorial Guinea|Equat. Guinea, EQG, gq,  fifa|caf|uniffac
+gab, Gabon,    GAB,  ga,  fifa|caf|uniffac
+stp, São Tomé and Príncipe|São Tomé e Príncipe|São Tomé/Pr., STP, st,  fifa|caf|uniffac
+
+
+#################################################
+# CECAFA (Council for East and Central Africa Football Associations)
+# - 12 members (Central-East Zone)
+
+bdi, Burundi,    BDI, bi, fifa|caf|cecafa
+dji, Djibouti,   DJI, dj, fifa|caf|cecafa|uafa
+eri, Eritrea,    ERI, er, fifa|caf|cecafa
+eth, Ethiopia,   ETH, et, fifa|caf|cecafa
+ken, Kenya,      KEN, ke, fifa|caf|cecafa
+rwa, Rwanda,     RWA, rw, fifa|caf|cecafa
+som, Somalia,    SOM, so, fifa|caf|cecafa|uafa
+ssd, South Sudan, SSD, ss, fifa|caf|cecafa
+sdn, Sudan,       SDN, sd, fifa|caf|cecafa|uafa
+tan, Tanzania,   TAN, tz, fifa|caf|cecafa
+uga, Uganda,     UGA, ug, fifa|caf|cecafa
+
+# semi-autonomous part of Tanzania - note: not a fifa member
+zan, Zanzibar,   ZAN, tz, caf|cecafa
+
+
+############################################################
+# COSAFA (Council of Southern Africa Football Associations)
+# - 14 members (Southern Zone)
+
+ang, Angola,   ANG,  ao,     fifa|caf|cosafa
+bot, Botswana,     BOT, bw,  fifa|caf|cosafa
+com, Comoros,    COM, km,    fifa|caf|cosafa|uafa
+les, Lesotho,      LES, ls,  fifa|caf|cosafa
+mri, Mauritius,  MRI, mu,    fifa|caf|cosafa
+mad, Madagascar, MAD, mg,    fifa|caf|cosafa
+mwi, Malawi,     MWI, mw,    fifa|caf|cosafa
+moz, Mozambique, MOZ, mz,    fifa|caf|cosafa
+nam, Namibia,      NAM, na,    fifa|caf|cosafa
+
+## NB: sc renamed to yc (sc used for Scottland) -- fix: rename back to orginal!!! - use sco for scotland!!
+sey, Seychelles, SEY, yc,    fifa|caf|cosafa
+
+rsa, South Africa, RSA, za,    fifa|caf|cosafa
+swz, Swaziland,    SWZ, sz,    fifa|caf|cosafa
+zam, Zambia,     ZAM, zm,    fifa|caf|cosafa
+zim, Zimbabwe,   ZIM, zw,    fifa|caf|cosafa
+
+
+############################
+# Non-regional CAF Members
+
+###
+## todo: check if caf tag will not get mixed up as three-letter country code?
+##  assume tag if last entry and three-letters? possible?
+## or add dummy letters (e.g) get trimmer e.g. caf__ or __caf - hack?
+##   better check for known three letter country code in db (if match)
+#     use country code if no match pass throug to tags!
+
+reu, Réunion, REU,  re,  caf   # note: not a FIFA member
+

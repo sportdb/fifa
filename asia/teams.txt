@@ -5,64 +5,57 @@
 # note: kazakhstan is listed here (not europe/uefa)
 
 
-kaz, Kazakhstan,   KAZ, kz, fifa|uefa
+kaz, Kazakhstan,   KAZ, kz
 
 
-# AFC (Asian Football Confederation), 4 sub-federations
-#  46+1 members
+####################################
+# -- Central and South Asia
+
+afg, Afghanistan, AFG, af
+ban, Bangladesh,  BAN, bd
+bhu, Bhutan,      BHU, bt
+ind, India,       IND, in
+kgz, Kyrgyzstan,   KGZ, kg
+mdv, Maldives,    MDV, mv
+nep, Nepal,       NEP, np
+pak, Pakistan,    PAK, pk
+sri, Sri Lanka,   SRI, lk
+tjk, Tajikistan,   TJK, tj
+tkm, Turkmenistan, TKM, tm 
+uzb, Uzbekistan,   UZB, uz
 
 
-#########################################################
-# CSAFF (Central and South Asian Football Federation)
-# - 12 members
+###########################
+# East Asia
 
-afg, Afghanistan, AFG, af, fifa|afc|csaff
-ban, Bangladesh,  BAN, bd, fifa|afc|csaff
-bhu, Bhutan,      BHU, bt, fifa|afc|csaff
-ind, India,       IND, in, fifa|afc|csaff
-kgz, Kyrgyzstan,   KGZ, kg, fifa|afc|csaff
-mdv, Maldives,    MDV, mv, fifa|afc|csaff
-nep, Nepal,       NEP, np, fifa|afc|csaff
-pak, Pakistan,    PAK, pk, fifa|afc|csaff
-sri, Sri Lanka,   SRI, lk, fifa|afc|csaff
-tjk, Tajikistan,   TJK, tj, fifa|afc|csaff
-tkm, Turkmenistan, TKM, tm, fifa|afc|csaff 
-uzb, Uzbekistan,   UZB, uz, fifa|afc|csaff
-
-
-#########################################
-# EAFF (East Asian Football Federation)
-# - 10 members
-
-chn, China,        CHN, cn, fifa|afc|eaff
-hkg, Hong Kong,    HKG, hk, fifa|afc|eaff
-jpn, Japan,        JPN, jp, fifa|afc|eaff
-prk, North Korea,  PRK, kp, fifa|afc|eaff
-kor, South Korea,  KOR, kr, fifa|afc|eaff
-mac, Macau|Macao,  MAC, mo, fifa|afc|eaff
-mgl, Mongolia,     MGL, mn, fifa|afc|eaff
-tpe, Taiwan,       TPE, tw, fifa|afc|eaff
+chn, China,        CHN, cn
+hkg, Hong Kong,    HKG, hk
+jpn, Japan,        JPN, jp
+prk, North Korea,  PRK, kp
+kor, South Korea,  KOR, kr
+mac, Macau|Macao,  MAC, mo
+mgl, Mongolia,     MGL, mn
+tpe, Taiwan,       TPE, tw
 
 # note: member Guam listed in pacific
 # note: member Northern Mariana Islands listed in pacific
 # note: candidate member Palau listed in pacific
 
 
-####################################################################
-# AFF (Association of South East Asian Nations Football Federation)
-# - 12 members
+#######################
+# South East Asia
 
-bru, Brunei,      BRU, bn,  fifa|afc|aff
-cam, Cambodia,    CAM, kh,  fifa|afc|aff
-idn, Indonesia,   IDN, id,  fifa|afc|aff
-lao, Laos,        LAO, la,  fifa|afc|aff
-mas, Malaysia,    MAS, my,  fifa|afc|aff
-mya, Myanmar,     MYA, mm,  fifa|afc|aff
-phi, Philippines, PHI, ph,  fifa|afc|aff
-sin, Singapore,   SIN, sg,  fifa|afc|aff
-tha, Thailand,    THA, th,  fifa|afc|aff
-tls, Timor-Leste|East Timor, TLS, tl,  fifa|afc|aff
-vie, Vietnam,     VIE, vn,  fifa|afc|aff
+bru, Brunei,      BRU, bn
+cam, Cambodia,    CAM, kh
+idn, Indonesia,   IDN, id
+lao, Laos,        LAO, la
+mas, Malaysia,    MAS, my
+mya, Myanmar,     MYA, mm
+phi, Philippines, PHI, ph
+sin, Singapore,   SIN, sg
+tha, Thailand,    THA, th
+tls, Timor-Leste|East Timor, TLS, tl
+vie, Vietnam,     VIE, vn
 
 # note: member Australia listed in pacific
 
