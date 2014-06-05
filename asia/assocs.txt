@@ -5,7 +5,7 @@
 # note: kazakhstan is listed here (not europe/uefa)
 
 
-kaz, Football Federation of Kazakhstan, 1914,   KAZ, kz, fifa|uefa,  www.kff.kz   ## Kazakhstan
+kaz, Football Federation of Kazakhstan, 1914,  kz, fifa|uefa,  www.kff.kz   ## Kazakhstan
 
 
 # AFC (Asian Football Confederation), 4 sub-federations
@@ -16,32 +16,32 @@ kaz, Football Federation of Kazakhstan, 1914,   KAZ, kz, fifa|uefa,  www.kff.kz 
 # CSAFF (Central and South Asian Football Federation)
 # - 12 members
 
-afg, Afghanistan Football Federation, 1922, AFG, af, fifa|afc|csaff, www.aff.org.af  ## Afghanistan
-ban, Bangladesh Football Federation,  1972, BAN, bd, fifa|afc|csaff, www.bff.com.bd  ## Bangladesh
-bhu, Bhutan Football Federation, 1983,    BHU, bt, fifa|afc|csaff     ## Bhutan
-ind, All India Football Federation,  1937,  IND, in, fifa|afc|csaff,  www.the-aiff.com   ## India
-kgz, Kyrgyzstan,   KGZ, kg, fifa|afc|csaff
-mdv, Maldives,    MDV, mv, fifa|afc|csaff
-nep, Nepal,       NEP, np, fifa|afc|csaff
-pak, Pakistan,    PAK, pk, fifa|afc|csaff
-sri, Sri Lanka,   SRI, lk, fifa|afc|csaff
-tjk, Tajikistan,   TJK, tj, fifa|afc|csaff
-tkm, Turkmenistan, TKM, tm, fifa|afc|csaff 
-uzb, Uzbekistan,   UZB, uz, fifa|afc|csaff
+afg, Afghanistan Football Federation, 1922, af, fifa|afc|csaff, www.aff.org.af  ## Afghanistan
+ban, Bangladesh Football Federation,  1972, bd, fifa|afc|csaff, www.bff.com.bd  ## Bangladesh
+bhu, Bhutan Football Federation, 1983,      bt, fifa|afc|csaff     ## Bhutan
+ind, All India Football Federation,  1937,  in, fifa|afc|csaff,  www.the-aiff.com   ## India
+kgz, Football Federation of Kyrgyz Republic,  kg, fifa|afc|csaff  ## Kyrgyzstan
+mdv, Football Association of Maldives,        mv, fifa|afc|csaff  ## Maldives
+nep, All Nepal Football Association,          np, fifa|afc|csaff  ## Nepal
+pak, Pakistan Football Federation,            pk, fifa|afc|csaff  ## Pakistan
+sri, Football Federation of Sri Lanka,        lk, fifa|afc|csaff  ## Sri Lanka
+tjk, Tajikistan Football Federation,          tj, fifa|afc|csaff  ## Tajikistan
+tkm, Football Federation of Turkmenistan,     tm, fifa|afc|csaff  ## Turkmenistan 
+uzb, Uzbekistan Football Federation,          uz, fifa|afc|csaff  ## Uzbekistan
 
 
 #########################################
 # EAFF (East Asian Football Federation)
 # - 10 members
 
-chn, China,        CHN, cn, fifa|afc|eaff
-hkg, Hong Kong,    HKG, hk, fifa|afc|eaff
-jpn, Japan,        JPN, jp, fifa|afc|eaff
-prk, North Korea,  PRK, kp, fifa|afc|eaff
-kor, South Korea,  KOR, kr, fifa|afc|eaff
-mac, Macau|Macao,  MAC, mo, fifa|afc|eaff
-mgl, Mongolia,     MGL, mn, fifa|afc|eaff
-tpe, Taiwan,       TPE, tw, fifa|afc|eaff
+chn, Football Association of the People's Republic of China|Chinese Football Association,  cn, fifa|afc|eaff  ## China
+hkg, Hong Kong Football Association,    hk, fifa|afc|eaff  ## Hong Kong
+jpn, Japan Football Association,        jp, fifa|afc|eaff  ## Japan
+prk, DPR Korea Football Association,  kp, fifa|afc|eaff  ## North Korea
+kor, Korea Football Association,      kr, fifa|afc|eaff  ## South Korea
+mac, Associação de Futebol de Macau,  mo, fifa|afc|eaff  ## Macau|Macao
+mgl, Mongolian Football Federation,   mn, fifa|afc|eaff  ## Mongolia
+tpe, Chinese Taipei Football Association,  tw, fifa|afc|eaff  ## Taiwan
 
 # note: member Guam listed in pacific
 # note: member Northern Mariana Islands listed in pacific
@@ -52,17 +52,17 @@ tpe, Taiwan,       TPE, tw, fifa|afc|eaff
 # AFF (Association of South East Asian Nations Football Federation)
 # - 12 members
 
-bru, Brunei,      BRU, bn,  fifa|afc|aff
-cam, Cambodia,    CAM, kh,  fifa|afc|aff
-idn, Indonesia,   IDN, id,  fifa|afc|aff
-lao, Laos,        LAO, la,  fifa|afc|aff
-mas, Malaysia,    MAS, my,  fifa|afc|aff
-mya, Myanmar,     MYA, mm,  fifa|afc|aff
-phi, Philippines, PHI, ph,  fifa|afc|aff
-sin, Singapore,   SIN, sg,  fifa|afc|aff
-tha, Thailand,    THA, th,  fifa|afc|aff
-tls, Timor-Leste|East Timor, TLS, tl,  fifa|afc|aff
-vie, Vietnam,     VIE, vn,  fifa|afc|aff
+bru, Football Association of Brunei Darussalam,    bn,  fifa|afc|aff  ## Brunei
+cam, Football Federation of Cambodia,     kh,  fifa|afc|aff   ## Cambodia
+idn, Football Association of Indonesia,   id,  fifa|afc|aff   ## Indonesia
+lao, Lao Football Federation,         la,  fifa|afc|aff    ## Laos
+mas, Football Association of Malaysia, my,  fifa|afc|aff  ## Malaysia
+mya, Myanmar Football Federation,      mm,  fifa|afc|aff  ## Myanmar
+phi, Philippine Football Federation,  ph,  fifa|afc|aff  ## Philippines
+sin, Football Association of Singapore,  sg,  fifa|afc|aff  ##   Singapore
+tha, Football Association of Thailand,   th,  fifa|afc|aff  ## Thailand
+tls, Federação de Futebol de Timor-Leste, tl,  fifa|afc|aff  ## Timor-Leste|East Timor
+vie, Vietnam Football Federation,      vn,  fifa|afc|aff  ## Vietnam
 
 # note: member Australia listed in pacific
 
