@@ -34,7 +34,11 @@ uzb, Uzbekistan Football Federation,          uz, fifa|afc|csaff  ## Uzbekistan
 # EAFF (East Asian Football Federation)
 # - 10 members
 
-chn, Football Association of the People's Republic of China|Chinese Football Association,  cn, fifa|afc|eaff  ## China
+## chn, Football Association of the People's Republic of China|Chinese Football Association,  cn, fifa|afc|eaff  ## China
+## fix: add synonyms field to table
+chn, Football Association of the People's Republic of China,  cn, fifa|afc|eaff  ## China
+
+
 hkg, Hong Kong Football Association,    hk, fifa|afc|eaff  ## Hong Kong
 jpn, Japan Football Association,        jp, fifa|afc|eaff  ## Japan
 prk, DPR Korea Football Association,  kp, fifa|afc|eaff  ## North Korea
