@@ -55,13 +55,14 @@ arm, Armenia,      ARM, am
 aze, Azerbaijan,   AZE, az
 
 ###
-# fix: use three-letter country codes e.g. use eng,wal,nir,sco,etc.!!!
-eng, England,       ENG, en
-sco, Scotland,      SCO, sc
-wal, Wales,         WAL, wa
-nir, Northern Ireland|N. Ireland, NIR, nd
+# NOTE: uses three-letter country codes e.g. eng,wal,nir,sco,etc. !!!
+eng, England,       ENG, eng
+sco, Scotland,      SCO, sco
+wal, Wales,         WAL, wal
+nir, Northern Ireland|N. Ireland, NIR, nir
+
 
 fro, Faroe Islands,  FRO, fo
 
 
-gib, Gibraltar,      GIB, gi    # note: not a FIFA member
+gib, Gibraltar,      GIB, gi    # NOTE: not a FIFA member (only UEFA member)

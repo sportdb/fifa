@@ -75,8 +75,7 @@ mwi, Malawi,     MWI, mw
 moz, Mozambique, MOZ, mz
 nam, Namibia,      NAM, na
 
-## NB: sc renamed to yc (sc used for Scottland) -- fix: rename back to orginal!!! - use sco for scotland!!
-sey, Seychelles, SEY, yc
+sey, Seychelles, SEY, sc
 
 rsa, South Africa, RSA, za
 swz, Swaziland,    SWZ, sz
