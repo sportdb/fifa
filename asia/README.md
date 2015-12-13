@@ -1,6 +1,6 @@
 
 
-### Clubs
+### National Teams
 
 
 **[teams.txt](teams.txt)** _(32)_ -- 
