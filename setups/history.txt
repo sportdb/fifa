@@ -1,5 +1,0 @@
-###########################
-# Former national teams
-
-national-teams!/teams_history
-

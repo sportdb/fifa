@@ -4,7 +4,7 @@
 
 A free open public domain football (soccer) database & schema
 for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
+e.g. uses datasets in (structured) text.
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
@@ -12,21 +12,21 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data for the world's national teams.
 Example:
 
-~~~
-esp, Spain,       ESP, es, fifa|uefa
-ita, Italy,       ITA, it, fifa|uefa
+```
+es   Spain,                ESP,  fifa › uefa
+it   Italy,                ITA,  fifa › uefa
 ...
 
-arg, Argentina,   ARG, ar, fifa|conmebol
-bra, Brazil,      BRA, br, fifa|conmebol
+ar   Argentina,            ARG,  fifa › conmebol
+br   Brazil,               BRA,  fifa › conmebol
 ...
-~~~
+```
 
 
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
+from the datasets in (structured) text. [More »](https://github.com/openfootball/datafile)
 
 
 
