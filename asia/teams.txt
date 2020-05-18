@@ -1,61 +1,64 @@
-#############################
-# Asia
-#
-# note: australia is listed in pacific (oceania)
-# note: kazakhstan is listed here (not europe/uefa)
+===============================
+==  Asia
+# Note: UEFA country kazakhstan is listed here in Asia
+# Note: Australia is listed in pacific (oceania w/ australia)
+
+### Central Asia
+kz   Kazakhstan,           KAZ,  fifa › uefa     # note: was formerly a member of AFC (1993–2002)
+kg   Kyrgyzstan,           KGZ,  fifa › afc › cafa
+      | Kyrgyz Republic
+tj   Tajikistan,           TJK,  fifa › afc › cafa
+tm   Turkmenistan,         TKM,  fifa › afc › cafa
+uz   Uzbekistan,           UZB,  fifa › afc › cafa
 
 
-kaz, Kazakhstan,   KAZ, kz
+### East Asia
+jp   Japan,                JPN,  fifa › afc › eaff
+kr   South Korea,          KOR,  fifa › afc › eaff
+      | Korea Republic | Republic of Korea    ## use "Korea, Republic"
+kp   North Korea,          PRK,  fifa › afc › eaff
+      | Korea DPR | Democratic People's Republic of Korea    ## use "Korea, DPR"
+cn   China,                CHN,  fifa › afc › eaff
+      | China PR | People's Republic of China                ## use "China, PR"
+tw   Taiwan,               TPE,  fifa › afc › eaff    #  was a member of OFC from 1975 to 1989
+      | Chinese Taipei |  Republic of China
+mn   Mongolia,             MNG,  fifa › afc › eaff
+
+# Territories & dependencies
+hk   Hong Kong › CN,       HKG,  fifa › afc › eaff
+mo   Macao     › CN,       MAC,  fifa › afc › eaff
+      | Macau
 
 
-####################################
-# -- Central and South Asia
-
-afg, Afghanistan, AFG, af
-ban, Bangladesh,  BAN, bd
-bhu, Bhutan,      BHU, bt
-ind, India,       IND, in
-kgz, Kyrgyzstan,   KGZ, kg
-mdv, Maldives,    MDV, mv
-nep, Nepal,       NEP, np
-pak, Pakistan,    PAK, pk
-sri, Sri Lanka,   SRI, lk
-tjk, Tajikistan,   TJK, tj
-tkm, Turkmenistan, TKM, tm 
-uzb, Uzbekistan,   UZB, uz
+### South Asia
+af   Afghanistan,          AFG,  fifa › afc › cafa
+pk   Pakistan,             PAK,  fifa › afc › saff
+in   India,                IND,  fifa › afc › saff
+bd   Bangladesh,           BAN,  fifa › afc › saff
+lk   Sri Lanka,            SRI,  fifa › afc › saff
+np   Nepal,                NEP,  fifa › afc › saff
+bt   Bhutan,               BHU,  fifa › afc › saff
+mv   Maldives,             MDV,  fifa › afc › saff
 
 
-###########################
-# East Asia
+### Southeast Asia
+id   Indonesia,            IDN,  fifa › afc › aff
+my   Malaysia,             MAS,  fifa › afc › aff
+sg   Singapore,            SIN,  fifa › afc › aff
+th   Thailand,             THA,  fifa › afc › aff
+ph   Philippines,          PHI,  fifa › afc › aff
+vn   Vietnam,              VIE,  fifa › afc › aff
+bn   Brunei,               BRU,  fifa › afc › aff
+      | Brunei Darussalam
+mm   Myanmar,              MYA,  fifa › afc › aff
+kh   Cambodia,             CAM,  fifa › afc › aff
+tl   Timor-Leste,          TLS,  fifa › afc › aff
+      | East Timor
+la   Laos,                 LAO,  fifa › afc › aff
 
-chn, China,        CHN, cn
-hkg, Hong Kong,    HKG, hk
-jpn, Japan,        JPN, jp
-prk, North Korea,  PRK, kp
-kor, South Korea,  KOR, kr
-mac, Macau|Macao,  MAC, mo
-mgl, Mongolia,     MGL, mn
-tpe, Taiwan,       TPE, tw
 
 # note: member Guam listed in pacific
 # note: member Northern Mariana Islands listed in pacific
-# note: candidate member Palau listed in pacific
-
-
-#######################
-# South East Asia
-
-bru, Brunei,      BRU, bn
-cam, Cambodia,    CAM, kh
-idn, Indonesia,   IDN, id
-lao, Laos,        LAO, la
-mas, Malaysia,    MAS, my
-mya, Myanmar,     MYA, mm
-phi, Philippines, PHI, ph
-sin, Singapore,   SIN, sg
-tha, Thailand,    THA, th
-tls, Timor-Leste|East Timor, TLS, tl
-vie, Vietnam,     VIE, vn
-
 # note: member Australia listed in pacific
+# note: candidate member Palau listed in pacific
 

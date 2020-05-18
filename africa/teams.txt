@@ -1,89 +1,87 @@
-########################
-# Africa
+========================================
+==  Africa
+
+### Eastern Africa
+bi   Burundi,              BDI, fifa › caf › cecafa
+dj   Djibouti,             DJI, fifa › caf › cecafa
+er   Eritrea,              ERI, fifa › caf › cecafa
+et   Ethiopia,             ETH, fifa › caf › cecafa
+ke   Kenya,                KEN, fifa › caf › cecafa
+rw   Rwanda,               RWA, fifa › caf › cecafa
+so   Somalia,              SOM, fifa › caf › cecafa
+tz   Tanzania,             TAN, fifa › caf › cecafa
+ug   Uganda,               UGA, fifa › caf › cecafa
+
+km   Comoros,              COM, fifa › caf › cosafa
+mg   Madagascar,           MAD, fifa › caf › cosafa
+mw   Malawi,               MWI, fifa › caf › cosafa
+mu   Mauritius,            MRI, fifa › caf › cosafa
+mz   Mozambique,           MOZ, fifa › caf › cosafa
+sc   Seychelles,           SEY, fifa › caf › cosafa
+zm   Zambia,               ZAM, fifa › caf › cosafa
+zw   Zimbabwe,             ZIM, fifa › caf › cosafa
 
 
-# -- North Africa
-
-alg, Algeria,     ALG, dz
-egy, Egypt,       EGY, eg
-mar, Morocco,     MAR, ma
-lby, Libya,       LBY, ly
-tun, Tunisia,     TUN, tn
-
-
-# -- West Africa
-
-cpv, Cape Verde,    CPV, cv
-gam, Gambia,        GAM, gm
-gui, Guinea,        GUI, gn
-gnb, Guinea-Bissau|Guinea Bissau, GNB, gw
-lbr, Liberia,       LBR, lr
-mli, Mali,          MLI, ml
-mtn, Mauritania,    MTN, mr
-sen, Senegal,       SEN, sn
-sle, Sierra Leone,  SLE, sl
-
-ben, Benin,         BEN, bj
-bfa, Burkina Faso,  BFA, bf
-civ, Côte d'Ivoire, CIV, ci
-gha, Ghana,         GHA, gh
-nig, Niger,         NIG, ne
-nga, Nigeria,       NGA, ng
-tog, Togo,          TOG, tg
+### Central Africa
+ao   Angola,               ANG, fifa › caf › cosafa
+cm   Cameroon,             CMR, fifa › caf › uniffac
+cf   Central African Republic,  CTA, fifa › caf › uniffac
+      | C. Afr. Rep.
+td   Chad,                 CHA, fifa › caf › uniffac
+cg   Congo,                CGO, fifa › caf › uniffac
+      | Congo-Brazzaville | Congo-Brazz.
+cd   Congo DR,             COD, fifa › caf › uniffac    ## use "Congo, DR"
+      | DR Congo | Democratic Republic of the Congo
+      | Congo-Kinshasa | Congo-Kinsh.
+gq   Equatorial Guinea,    EQG, fifa › caf › uniffac
+      | Equat. Guinea
+ga   Gabon,                GAB, fifa › caf › uniffac
+st   São Tomé and Príncipe,  STP, fifa › caf › uniffac
+      | São Tomé e Príncipe | São Tomé/Pr.
 
 
-# -- Central Africa
-
-cmr, Cameroon, CMR,  cm
-cta, Central African Republic|C. Afr. Rep., CTA, cf
-cha, Chad,     CHA,  td
-cgo, Congo|Congo-Brazzaville|Congo-Brazz.,  CGO,  cg
-cod, Congo DR|Congo-Kinshasa|Congo-Kinsh.,  COD,  cd
-eqg, Equatorial Guinea|Equat. Guinea, EQG, gq
-gab, Gabon,    GAB,  ga
-stp, São Tomé and Príncipe|São Tomé e Príncipe|São Tomé/Pr., STP, st
+### Northern Africa
+dz   Algeria,              ALG, fifa › caf › unaf
+eg   Egypt,                EGY, fifa › caf › unaf
+ma   Morocco,              MAR, fifa › caf › unaf
+ly   Libya,                LBY, fifa › caf › unaf
+tn   Tunisia,              TUN, fifa › caf › unaf
+ss   South Sudan,          SSD, fifa › caf › cecafa
+sd   Sudan,                SDN, fifa › caf › cecafa
 
 
-# -- East and Central Africa
-
-bdi, Burundi,    BDI, bi
-dji, Djibouti,   DJI, dj
-eri, Eritrea,    ERI, er
-eth, Ethiopia,   ETH, et
-ken, Kenya,      KEN, ke
-rwa, Rwanda,     RWA, rw
-som, Somalia,    SOM, so
-ssd, South Sudan, SSD, ss
-sdn, Sudan,       SDN, sd
-tan, Tanzania,   TAN, tz
-uga, Uganda,     UGA, ug
-
-# semi-autonomous part of Tanzania - note: not a fifa member
-zan, Zanzibar,   ZAN, tz
+### Southern Africa
+za   South Africa,         RSA, fifa › caf › cosafa
+bw   Botswana,             BOT, fifa › caf › cosafa
+ls   Lesotho,              LES, fifa › caf › cosafa
+na   Namibia,              NAM, fifa › caf › cosafa
+sz   Eswatini,             SWZ, fifa › caf › cosafa
+      | Swaziland       # officially renamed in 2018 from Swaziland to Eswatini
 
 
+### Western Africa
+bj   Benin,                BEN, fifa › caf › wafu
+bf   Burkina Faso,         BFA, fifa › caf › wafu
+cv   Cabo Verde,           CPV, fifa › caf › wafu
+      | Cape Verde | Cape Verde Islands
+ci   Côte d'Ivoire,        CIV, fifa › caf › wafu
+      | Ivory Coast [en]
+gm   Gambia,               GAM, fifa › caf › wafu
+gh   Ghana,                GHA, fifa › caf › wafu
+gn   Guinea,               GUI, fifa › caf › wafu
+gw   Guinea-Bissau,        GNB, fifa › caf › wafu
+lr   Liberia,              LBR, fifa › caf › wafu
+ml   Mali,                 MLI, fifa › caf › wafu
+mr   Mauritania,           MTN, fifa › caf › wafu
+ne   Niger,                NIG, fifa › caf › wafu
+ng   Nigeria,              NGA, fifa › caf › wafu
+sn   Senegal,              SEN, fifa › caf › wafu
+sl   Sierra Leone,         SLE, fifa › caf › wafu
+tg   Togo,                 TOG, fifa › caf › wafu
 
-# -- Southern Africa
 
-ang, Angola,   ANG,  ao
-bot, Botswana,     BOT, bw
-com, Comoros,    COM, km
-les, Lesotho,      LES, ls
-mri, Mauritius,  MRI, mu
-mad, Madagascar, MAD, mg
-mwi, Malawi,     MWI, mw
-moz, Mozambique, MOZ, mz
-nam, Namibia,      NAM, na
-
-sey, Seychelles, SEY, sc
-
-rsa, South Africa, RSA, za
-swz, Swaziland,    SWZ, sz
-zam, Zambia,     ZAM, zm
-zim, Zimbabwe,   ZIM, zw
+# Territories & Dependencies
+re   Réunion  › FR, REU,   caf             # note: NOT fifa member
+zan  Zanzibar › TZ, ZAN,   caf › cecafa    # note: NOT fifa member  -- is a semi-autonomous region of Tanzania
 
 
-# -- Non-regional CAF Members
-
-# note: not a FIFA member
-reu, Réunion, REU,  re

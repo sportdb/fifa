@@ -1,7 +1,12 @@
-####################
-# North America
+==================================
+==  North America
 
-mex, Mexico,        MEX, mx
-usa, United States, USA, us
-can, Canada,        CAN, ca
+ca   Canada,               CAN,  fifa › concacaf › nafu
+us   United States,        USA,  fifa › concacaf › nafu
+mx   Mexico,               MEX,  fifa › concacaf › nafu
+      | México [es]
 
+# Territories & Dependencies
+bm   Bermuda › UK,         BER,  fifa › concacaf › cfu
+    ## check alt old? code BMU - in use??
+gl   Greenland › DK,       GRL

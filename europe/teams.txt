@@ -1,68 +1,109 @@
-#######################
-# Europe
+=========================================
+==  Europe
+# Note: The UEFA member country Kazachstan from Asia is listed in Asia.
+# Note: The UEFA member country Israel from Asia is listed in Middle East.
 
-# note: uefa members Israel n Kazakhstan listed in Asia
-
-aut, Austria,          AUT, at
-bel, Belgium,          BEL, be
-cyp, Cyprus,           CYP, cy
-ger, Germany,          GER, de
-est, Estonia,          EST, ee
-esp, Spain,            ESP, es
-fin, Finland,          FIN, fi
-fra, France,           FRA, fr
-gre, Greece,           GRE, gr
-irl, Ireland,          IRL, ie
-ita, Italy,            ITA, it
-lux, Luxembourg,       LUX, lu
-mlt, Malta,            MLT, mt
-ned, Netherlands,      NED, nl
-por, Portugal,         POR, pt
-svk, Slovakia,         SVK, sk
-svn, Slovenia,         SVN, si
-bul, Bulgaria,         BUL, bg
-den, Denmark,          DEN, dk
-lva, Latvija|Latvia,   LVA, lv
-ltu, Lithuania,        LTU, lt
-pol, Poland,           POL, pl
-rou, Romania,          ROU, ro
-swe, Sweden,           SWE, se
-cze, Czech Republic,   CZE, cz
-hun, Hungary,          HUN, hu
+al   Albania,              ALB,   fifa › uefa
+ad   Andorra,              AND,   fifa › uefa
+at   Austria,              AUT,   fifa › uefa
+      | Österreich [de]
 
 
-and, Andorra,     AND, ad
-alb, Albania,     ALB, al
-blr, Belarus,     BLR, by
-sui, Switzerland, SUI, ch
-cro, Croatia,     CRO, hr
-srb, Serbia,      SRB, rs
-rus, Russia,      RUS, ru
-tur, Turkey,      TUR, tr
-ukr, Ukraine,     UKR, ua
-mkd, Macedonia,   MKD, mk
-nor, Norway,      NOR, no
-isl, Iceland,     ISL, is
+by   Belarus,              BLR,    fifa › uefa
+be   Belgium,              BEL,    fifa › uefa
+ba   Bosnia and Herzegovina,  BIH,  fifa › uefa
+      | Bosnia-Herzegovina | Bosnia | Bosnia-Herz.
+bg   Bulgaria,             BUL,   fifa › uefa
 
-bih, Bosnia-Herzegovina|Bosnia and Herzegovina|Bosnia|Bosnia-Herz., BIH, ba
-lie, Liechtenstein,          LIE, li
-mne, Montenegro,             MNE, me
-mda, Moldova,                MDA, md
-smr, San Marino,             SMR, sm
+hr   Croatia,              CRO,   fifa › uefa
+      | Hrvatska [hr]
+cy   Cyprus,               CYP,   fifa › uefa
+cz   Czech Republic,       CZE,   fifa › uefa
 
-geo, Georgia,      GEO, ge
-arm, Armenia,      ARM, am
-aze, Azerbaijan,   AZE, az
+dk   Denmark,              DEN,   fifa › uefa
 
-###
-# NOTE: uses three-letter country codes e.g. eng,wal,nir,sco,etc. !!!
-eng, England,       ENG, eng
-sco, Scotland,      SCO, sco
-wal, Wales,         WAL, wal
-nir, Northern Ireland|N. Ireland, NIR, nir
+ee   Estonia,              EST,  fifa › uefa
+es   Spain,                ESP,  fifa › uefa
+      | España [es]
+
+fi   Finland,              FIN,  fifa › uefa
+fr   France,               FRA,  fifa › uefa
+
+de   Germany,              GER,  fifa › uefa
+      | Deutschland [de]
+gr   Greece,               GRE,  fifa › uefa
+
+hu   Hungary,              HUN,  fifa › uefa
+
+is   Iceland,              ISL,  fifa › uefa
+it   Italy,                ITA,  fifa › uefa
+ie   Ireland,              IRL,  fifa › uefa
+      | Republic of Ireland
+
+lv   Latvia,               LVA,  fifa › uefa
+      | Latvija
+li   Liechtenstein,        LIE,  fifa › uefa
+lt   Lithuania,            LTU,  fifa › uefa
+lu   Luxembourg,           LUX,  fifa › uefa
+
+mk   North Macedonia,      MKD,  fifa › uefa
+      | Macedonia
+mt   Malta,                MLT,  fifa › uefa
+md   Moldova,              MDA,  fifa › uefa
+me   Montenegro,           MNE,  fifa › uefa
+
+nl   Netherlands,          NED,  fifa › uefa
+no   Norway,               NOR,  fifa › uefa
+
+pl   Poland,               POL,  fifa › uefa
+pt   Portugal,             POR,  fifa › uefa
+
+ro   Romania,              ROU,  fifa › uefa
+ru   Russia,               RUS,  fifa › uefa
+
+sm   San Marino,  SMR,  fifa › uefa
+rs   Serbia,  SRB,      fifa › uefa
+sk   Slovakia,  SVK,     fifa › uefa
+si   Slovenia,  SVN,     fifa › uefa
+se   Sweden,  SWE,       fifa › uefa
+ch   Switzerland,  SUI,  fifa › uefa
+      | Confoederatio Helvetica
+
+tr   Turkey,  TUR,   fifa › uefa
+ua   Ukraine,  UKR,  fifa › uefa
+
+xk   Kosovo,  KVX,  fifa › uefa        # -- note: Kosovo is not listed as an ISO standard country. The unofficial 2 and 3-digit codes are used by the European Commission and others until Kosovo is assigned an ISO code
+      | KOS      # note: KOS used by UEFA, KVX by FIFA (use FIFA code for now)
+
+##  south caucasus
+## - add to middle east?
+
+am   Armenia,              ARM,  fifa › uefa
+az   Azerbaijan,           AZE,  fifa › uefa
+ge   Georgia,              GEO,  fifa › uefa
 
 
-fro, Faroe Islands,  FRO, fo
+# Territories & Dependencies
+fo   Faroe Islands › DK,   FRO,  fifa › uefa
+gi   Gibraltar     › UK,   GIB,  fifa › uefa
+
+nkr  Artsakh        › AZ,  NKR   # note: NOT fifa or uefa member
+bsq  Basque Country › ES,  BSQ   # note: NOT fifa or uefa member
+cat  Catalonia      › ES,  CAT   # note: NOT fifa or uefa member
+## note: uses four-letter codes!
+trnc Northern Cyprus › CY, TRNC  # note: NOT fifa or uefa member
+
+## not members
+# - Great Britain - only all its member e.g. England/Wales/Scotland/Northern Irland
+uk   Great Britain,    GBR     # note: NOT fifa or uefa member
+eng  England          › UK, ENG,  fifa › uefa
+wal  Wales            › UK, WAL,  fifa › uefa
+sco  Scotland         › UK, SCO,  fifa › uefa
+nir  Northern Ireland › UK, NIR,  fifa › uefa
+      | N. Ireland
+
+## irregular codes
+va   Vatican City,  VAT    ## no "official" fifa code - listed in "irregular" codes
+mc   Monaco,        MCO    ## no "official" fifa code - listed in "irregular" codes
 
 
-gib, Gibraltar,      GIB, gi    # NOTE: not a FIFA member (only UEFA member)

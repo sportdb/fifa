@@ -1,10 +1,12 @@
-######################
-# Central America
+==================================
+==  Central America
 
-hon, Honduras,      HON, hn
-crc, Costa Rica,    CRC, cr
-slv, El Salvador,   SLV, sv
-pan, Panama,        PAN, pa
-gua, Guatemala,     GUA, gt
-blz, Belize,        BLZ, bz
-nca, Nicaragua,     NCA, ni
+bz   Belize,               BLZ,  fifa › concacaf › uncaf
+gt   Guatemala,            GUA,  fifa › concacaf › uncaf
+cr   Costa Rica,           CRC,  fifa › concacaf › uncaf
+hn   Honduras,             HON,  fifa › concacaf › uncaf
+sv   El Salvador,          SLV,  fifa › concacaf › uncaf
+ni   Nicaragua,            NCA,  fifa › concacaf › uncaf
+pa   Panama,               PAN,  fifa › concacaf › uncaf
+      | Panamá [es]
+
