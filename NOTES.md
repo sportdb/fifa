@@ -81,12 +81,12 @@ AFRICA - ASIA - EUROPE - NORTH, CENTRAL AMERICA AND CARIBBEAN - OCEANIA - SOUTH 
 Source: www.rsssf.com/miscellaneous/fifa-codes.html
 
 ```
-Old FIFA/IOC Codes
+Old FIFA/IOC Codes                  FIFA		IOC 
 
 Commonwealth of Independent States	CIS		EUN
-Curacao					CUR		---
-Czechoslovakia				TCH		TCH
-East Germany				DDR		GDR
+Curacao				                    	CUR		---
+Czechoslovakia				              TCH		TCH
+East Germany				                DDR		GDR
 Netherland Antilles			ANT		AHO
 North Vietnam				VNO		---
 North Yemen				NYE		YAR
