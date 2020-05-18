@@ -76,3 +76,87 @@ AFRICA - ASIA - EUROPE - NORTH, CENTRAL AMERICA AND CARIBBEAN - OCEANIA - SOUTH 
 
 
 
+## RSSSF Fifa Codes Notes
+
+Source: www.rsssf.com/miscellaneous/fifa-codes.html
+
+```
+Old FIFA/IOC Codes
+
+Commonwealth of Independent States	CIS		EUN
+Curacao					CUR		---
+Czechoslovakia				TCH		TCH
+East Germany				DDR		GDR
+Netherland Antilles			ANT		AHO
+North Vietnam				VNO		---
+North Yemen				NYE		YAR
+Saarland				SAA		SAA
+Serbia & Montenegro			SCG		SCG
+South Vietnam				VSO		VIE
+South Yemen				SYE		YMD
+Soviet Union				URS		URS
+Sudan					SUD		---
+West Germany				FRG		FRG
+Yugoslavia				YUG		YUG
+
+
+Old Names of Countries/Independent States
+
+Bohemia (Later Czechoslovakia)		BOH		BOH
+Burma (Today Myanmar)			BUR		BIR
+Ceylon (Today Sri Lanka)		CEY		CEY
+Congo-Kinshasa (Later Zaire)		CKN		COD
+Congo-Brazzaville (Today Congo)		COB		---	
+Czechoslovakia * (See Below)		TCH		CSV
+Dahomey (Today Benin)			DAH		DAH
+Dutch East Indies (Today Indonesia)	DEI		IHO
+New Hebrides (Today Vanuatu)		HEB		---		
+Palestine (Today Israel/Jordan)		PAL		PAL
+Rhodesia (Today Zimbabwe)		RHO		RHO
+Tanganyika (Today part of Tanzania)	TAA		TAN
+Taiwan (Today Chinese Taipei)		TAI		TAI
+United Arab Republic			UAR		RAU
+Upper Volta (Today Burkina Faso)	UPV		UPV
+Western Samoa (Today Samoa)		WSM		SAM
+Zaire (Today Congo DR)			ZAI		ZAI
+
+* = Czech Republic & Slovakia
+
+
+
+198 are members of both FIFA & IOC. 21 of these members have different codes.
+
+13 are members of FIFA but are not (yet) members of the IOC:
+
+Anguilla, Curacao, England, Faroe Islands, Gibraltar, Macao, Montserrat, 
+New Caledonia, Northern Ireland, Scotland, Tahiti, Turks & Caicos Islands
+and Wales.
+
+5 are members of the IOC but are not (yet) members of FIFA or a regional 
+Confederation:
+
+Great Britain, Marshall Islands, Monaco, Nauru and Vatican City.
+
+14 Countries/Independent States/Overseas Territories/Regions are 
+members of a regional Confederation but not of FIFA: 
+
+Northern Mariana Islands (AFC), Reunion & Zanzibar (CAF), Bonaire,
+French Guyana, Guadeloupe, Martinique, Saint-Martin & Sint Maarten 
+(CONCACAF), Kiribati, Micronesia, Niue Islands, Palau & Tuvalu (OFC)
+(4 of the above are IOC members: Kiribati, Micronesia, Palau & Tuvalu).
+
+2 Countries/Independent States/Overseas Territories/Regions are not 
+yet members of either FIFA or the IOC:
+
+Wallis & Futuna (Oceania), Greenland (CONCACAF).
+
+
+Totals
+
+211 are members of FIFA
+207 are members of the IOC
+
+NB: Australia now play Football under the banner of the AFC.
+    Guam also now play Football under the banner of the AFC but are,
+    like Australia, members of the Oceania region for the Olympics.
+```
