@@ -12,7 +12,7 @@ at   Austria,              AUT,   fifa › uefa
 by   Belarus,              BLR,    fifa › uefa
 be   Belgium,              BEL,    fifa › uefa
 ba   Bosnia and Herzegovina,  BIH,  fifa › uefa
-      | Bosnia-Herzegovina | Bosnia | Bosnia-Herz.
+      | Bosnia-Herzegovina | Bosnia | Bosnia-Herz.      # add Bosnia Herzegovina?
 bg   Bulgaria,             BUL,   fifa › uefa
 
 hr   Croatia,              CRO,   fifa › uefa
@@ -111,6 +111,7 @@ nir  Northern Ireland › UK, NIR,  fifa › uefa
 
 ## irregular codes
 va   Vatican City,  VAT    ## no "official" fifa code - listed in "irregular" codes
+      | Vatican
 mc   Monaco,        MCO    ## no "official" fifa code - listed in "irregular" codes
 
 
