@@ -46,8 +46,12 @@ li   Liechtenstein,        LIE,  fifa › uefa
 lt   Lithuania,            LTU,  fifa › uefa
 lu   Luxembourg,           LUX,  fifa › uefa
 
+## note: country renamed to North Macedonia in February 2019
+##         keeps same fifa code - move Macedonia to history - why? why not?
 mk   North Macedonia,      MKD,  fifa › uefa
-      | Macedonia
+      | Republic of North Macedonia
+      | Macedonia | FYR Macedonia | Macedonia FYR
+
 mt   Malta,                MLT,  fifa › uefa
 md   Moldova,              MDA,  fifa › uefa
 me   Montenegro,           MNE,  fifa › uefa

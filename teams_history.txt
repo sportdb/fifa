@@ -18,6 +18,7 @@
 # the renewed state of Montenegro, with the Serbian national team
 # inheriting the history and records of Serbia and Montenegro's national team.
 -2006   Serbia and Montenegro, SCG  ⇒  Serbia
+         | Serbia & Montenegro
 
 # note:
 #  Federal Republic of Yugoslavia (1992-2003)

@@ -11,18 +11,18 @@ ht   Haiti,                HAI,  fifa › concacaf › cfu
 
 
 ag   Antigua and Barbuda,  ATG,  fifa › concacaf › cfu
-      | Antigua/Barb.
+      | Antigua/Barb. | Antigua & Barbuda
 bs   Bahamas,              BAH,  fifa › concacaf › cfu
 bb   Barbados,             BRB,  fifa › concacaf › cfu
 dm   Dominica,             DMA,  fifa › concacaf › cfu
 gd   Grenada,              GRN,  fifa › concacaf › cfu
 kn   Saint Kitts and Nevis,  SKN, fifa › concacaf › cfu
-      | St. Kitts/N.
+      | St. Kitts/N. | St. Kitts & Nevis
 lc   Saint Lucia,          LCA,  fifa › concacaf › cfu
 vc   Saint Vincent and the Grenadines,  VIN, fifa › concacaf › cfu
-      | St. Vincent/G.
+      | St. Vincent/G. | St. Vincent & The Grenadines
 tt   Trinidad and Tobago,  TRI, fifa › concacaf › cfu
-      | Trinidad/Tob.
+      | Trinidad/Tob.  | Trinidad & Tobago
 
 # Territories & Dependencies
 pr   Puerto Rico       › US,  PUR,  fifa › concacaf › cfu
@@ -38,7 +38,9 @@ ky   Cayman Islands › UK,  CAY,    fifa › concacaf › cfu
       | Cayman Isl.
 ms   Montserrat › UK,      MSR,    fifa › concacaf › cfu
 tc   Turks and Caicos Islands › UK,  TCA,    fifa › concacaf › cfu
+      | Turks & Caicos Islands
 vg   British Virgin Islands › UK,  VGB,    fifa › concacaf › cfu
+
 
 
 ## Non-FIFA member codes
