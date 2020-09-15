@@ -19,6 +19,7 @@ hr   Croatia,              CRO,   fifa › uefa
       | Hrvatska [hr]
 cy   Cyprus,               CYP,   fifa › uefa
 cz   Czech Republic,       CZE,   fifa › uefa
+      | Czechia
 
 dk   Denmark,              DEN,   fifa › uefa
 
@@ -94,6 +95,8 @@ gi   Gibraltar     › UK,   GIB,  fifa › uefa
 nkr  Artsakh        › AZ,  NKR   # note: NOT fifa or uefa member
 bsq  Basque Country › ES,  BSQ   # note: NOT fifa or uefa member
 cat  Catalonia      › ES,  CAT   # note: NOT fifa or uefa member
+gal  Galicia        › ES,  GAL   # note: NOT fifa or uefa member
+
 ## note: uses four-letter codes!
 trnc Northern Cyprus › CY, TRNC  # note: NOT fifa or uefa member
 
