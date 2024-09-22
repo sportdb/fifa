@@ -128,7 +128,7 @@ That's it.
 The World's Football Association / Governing Body
 uses its own country list and (three-letter²) codes - see
 the [List of FIFA country codes @ Wikipedia](https://en.wikipedia.org/wiki/List_of_FIFA_country_codes)
-or the [built-in country datafiles (in .txt)](https://github.com/sportdb/football.db/blob/master/fifa/config) shipping with this library.
+or the [built-in country datafiles (in .txt)](https://github.com/sportdb/fifa/blob/master/config) shipping with this library.
 
 
 
