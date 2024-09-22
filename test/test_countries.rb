@@ -8,7 +8,7 @@ require_relative 'helper'
 class TestCountries < Minitest::Test
 
   def test_read_countries
-    recs = Fifa::CountryReader.read( "#{Fifa.data_dir}/countries.txt" )
+    recs = Fifa::CountryReader.read( "#{Fifa.data_dir}/africa/countries.txt" )
     ## pp recs
 
     assert_equal [{ key: 'bi', code: 'BDI', name: 'Burundi',   tags: ['fifa','caf','cecafa']},

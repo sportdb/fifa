@@ -2,7 +2,7 @@
 module Fifa
   MAJOR = 2024    ## todo: namespace inside version or something - why? why not??
   MINOR = 9
-  PATCH = 21
+  PATCH = 22
   VERSION = [MAJOR,MINOR,PATCH].join('.')
 
   def self.version

@@ -5,11 +5,12 @@ module Fifa
 ## built-in countries for (quick starter) auto-add
 class CountryIndex
 
-  def self.read( path )
-    world = new
-    recs = CountryReader.read( path )
-    world.add( recs )
-    world
+  def self.read( *paths )
+    recs = []
+    paths.each do |path|
+      recs += CountryReader.read( path )
+    end
+    new( recs )
   end
 
 
