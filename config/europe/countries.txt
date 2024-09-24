@@ -77,8 +77,14 @@ ch   Switzerland,  SUI,  fifa › uefa
 tr   Turkey,  TUR,   fifa › uefa
 ua   Ukraine,  UKR,  fifa › uefa
 
-xk   Kosovo,  KVX,  fifa › uefa        # -- note: Kosovo is not listed as an ISO standard country. The unofficial 2 and 3-digit codes are used by the European Commission and others until Kosovo is assigned an ISO code
-      | KOS      # note: KOS used by UEFA, KVX by FIFA (use FIFA code for now)
+## old kosovo version
+# -- note: Kosovo is not listed as an ISO standard country. The unofficial 2 and 3-digit codes are used by the European Commission and others until Kosovo is assigned an ISO code
+#    note: KOS used by UEFA, KVX by FIFA (use FIFA code for now)
+# xk   Kosovo,  KVX,  fifa › uefa
+#       | KOS
+
+kos   Kosovo,  KOS,  fifa › uefa
+       | kvx | xk
 
 ##  south caucasus
 ## - add to middle east?

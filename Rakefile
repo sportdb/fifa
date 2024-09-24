@@ -21,6 +21,7 @@ Hoe.spec 'fifa' do
 
   self.extra_deps = [
     ['sportdb-structs',   '>= 0.4.0'],
+    ['alphabets'],
   ]
 
   self.spec_extras = {

@@ -1,5 +1,6 @@
 ## 3rd party gems
 require 'sportdb/structs'    ## pull-in Sports::Country
+require 'alphabets'
 
 
 ###

@@ -40,4 +40,17 @@ pp Fifa.banner
 pp Fifa.data_dir
 pp Fifa.root
 
+pp Fifa.world.find_by_name( 'Austria' )
+pp Fifa.world.find_by_name( 'austria' )
+pp Fifa.world.find_by_name( 'a u s t r i a' )
+pp Fifa.world.find_by_name( 'a.u.s.t.r.i.a' )
+pp Fifa.world.find_by_name( 'Österreich' )
+
+pp Fifa.world.find_by_name( 'Germany' )
+pp Fifa.world.find_by_name( 'Deutschland' )
+pp Fifa.world.find_by_name( 'Kosovo' )
+
+pp Fifa.world.find_by_name( 'Yugoslavia' )
+pp Fifa.world.find_by_name( 'East Germany' )
+
 puts "bye"
