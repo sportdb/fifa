@@ -52,7 +52,7 @@ gq   Equatorial Guinea,    EQG, fifa › caf › uniffac
       | Equat. Guinea
       | Äquatorialguinea [de]
 ga   Gabon,                GAB, fifa › caf › uniffac
-      | Gabun
+      | Gabun [de]
 st   São Tomé and Príncipe,  STP, fifa › caf › uniffac
       | São Tomé e Príncipe | São Tomé/Pr.
 
