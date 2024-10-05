@@ -11,38 +11,54 @@ at   Austria,              AUT,   fifa › uefa
 
 by   Belarus,              BLR,    fifa › uefa
 be   Belgium,              BEL,    fifa › uefa
+      | Belgien [de]
 ba   Bosnia and Herzegovina,  BIH,  fifa › uefa
       | Bosnia-Herzegovina | Bosnia | Bosnia-Herz.      # add Bosnia Herzegovina?
+      | Bosnien-Herzegowina [de]
 bg   Bulgaria,             BUL,   fifa › uefa
+      | Bulgarien [de]
 
 hr   Croatia,              CRO,   fifa › uefa
       | Hrvatska [hr]
+      | Kroatien [de]
 cy   Cyprus,               CYP,   fifa › uefa
+       | Zypern [de]
 cz   Czech Republic,       CZE,   fifa › uefa
       | Czechia
+      | Tschechien [de]
 
 dk   Denmark,              DEN,   fifa › uefa
+      | Dänemark [de]
 
 ee   Estonia,              EST,  fifa › uefa
 es   Spain,                ESP,  fifa › uefa
       | España [es]
+      | Spanien [de]
 
 fi   Finland,              FIN,  fifa › uefa
+      | Finnland [de]
 fr   France,               FRA,  fifa › uefa
+      | Frankreich [de]
 
 de   Germany,              GER,  fifa › uefa
       | Deutschland [de]
 gr   Greece,               GRE,  fifa › uefa
+      | Griechenland [de]
 
 hu   Hungary,              HUN,  fifa › uefa
+      | Ungarn [de]
 
 is   Iceland,              ISL,  fifa › uefa
+      | Island [de]
 it   Italy,                ITA,  fifa › uefa
+      | Italien [de]
 ie   Ireland,              IRL,  fifa › uefa
       | Republic of Ireland
+      | Irland [de]
 
 lv   Latvia,               LVA,  fifa › uefa
       | Latvija
+      | Lettland [de]
 li   Liechtenstein,        LIE,  fifa › uefa
 lt   Lithuania,            LTU,  fifa › uefa
 lu   Luxembourg,           LUX,  fifa › uefa
@@ -55,26 +71,37 @@ mk   North Macedonia,      MKD,  fifa › uefa
 
 mt   Malta,                MLT,  fifa › uefa
 md   Moldova,              MDA,  fifa › uefa
+      | Moldau [de]
 me   Montenegro,           MNE,  fifa › uefa
 
 nl   Netherlands,          NED,  fifa › uefa
+       | Niederlande [de]
 no   Norway,               NOR,  fifa › uefa
+       | Norwegen [de]
 
 pl   Poland,               POL,  fifa › uefa
+       | Polen [de]
 pt   Portugal,             POR,  fifa › uefa
 
 ro   Romania,              ROU,  fifa › uefa
+       | Rumänien [de]
 ru   Russia,               RUS,  fifa › uefa
 
 sm   San Marino,  SMR,  fifa › uefa
 rs   Serbia,  SRB,      fifa › uefa
+      | Serbien [de]
 sk   Slovakia,  SVK,     fifa › uefa
+      | Slowakei [de]
 si   Slovenia,  SVN,     fifa › uefa
+      | Slowenien [de]
 se   Sweden,  SWE,       fifa › uefa
+      | Schweden [de]
 ch   Switzerland,  SUI,  fifa › uefa
       | Confoederatio Helvetica
+      | Schweiz [de]
 
 tr   Turkey,  TUR,   fifa › uefa
+      | Türkei [de]
 ua   Ukraine,  UKR,  fifa › uefa
 
 ## old kosovo version
@@ -90,12 +117,15 @@ kos   Kosovo,  KOS,  fifa › uefa
 ## - add to middle east?
 
 am   Armenia,              ARM,  fifa › uefa
+       | Armenien [de]
 az   Azerbaijan,           AZE,  fifa › uefa
+       | Aserbaidschan [de]
 ge   Georgia,              GEO,  fifa › uefa
 
 
 # Territories & Dependencies
 fo   Faroe Islands › DK,   FRO,  fifa › uefa
+       | Färöer [de]
 gi   Gibraltar     › UK,   GIB,  fifa › uefa
 
 nkr  Artsakh        › AZ,  NKR   # note: NOT fifa or uefa member
@@ -112,8 +142,10 @@ uk   Great Britain,    GBR     # note: NOT fifa or uefa member
 eng  England          › UK, ENG,  fifa › uefa
 wal  Wales            › UK, WAL,  fifa › uefa
 sco  Scotland         › UK, SCO,  fifa › uefa
+      | Schottland [de]
 nir  Northern Ireland › UK, NIR,  fifa › uefa
       | N. Ireland
+      | Nordirland [de]
 
 ## irregular codes
 va   Vatican City,  VAT    ## no "official" fifa code - listed in "irregular" codes

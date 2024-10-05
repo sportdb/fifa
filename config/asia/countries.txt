@@ -5,6 +5,7 @@
 
 ### Central Asia
 kz   Kazakhstan,           KAZ,  fifa › uefa     # note: was formerly a member of AFC (1993–2002)
+      | Kasachstan [de]
 kg   Kyrgyzstan,           KGZ,  fifa › afc › cafa
       | Kyrgyz Republic
 tj   Tajikistan,           TJK,  fifa › afc › cafa
