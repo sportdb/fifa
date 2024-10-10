@@ -55,6 +55,7 @@ ga   Gabon,                GAB, fifa › caf › uniffac
       | Gabun [de]
 st   São Tomé and Príncipe,  STP, fifa › caf › uniffac
       | São Tomé e Príncipe | São Tomé/Pr.
+      | São Tomé und Príncipe [de]
 
 
 ### Northern Africa
@@ -88,6 +89,7 @@ bj   Benin,                BEN, fifa › caf › wafu
 bf   Burkina Faso,         BFA, fifa › caf › wafu
 cv   Cabo Verde,           CPV, fifa › caf › wafu
       | Cape Verde | Cape Verde Islands
+      | Kapverdische Inseln [de]
 ci   Côte d'Ivoire,        CIV, fifa › caf › wafu
       | Ivory Coast [en]
       | Elfenbeinküste [de]

@@ -2,10 +2,14 @@
 ==  South America
 
 ar   Argentina,            ARG,  fifa › conmebol
+       | Argentinien [de]
 bo   Bolivia,              BOL,  fifa › conmebol
+       | Bolivien [de]
 br   Brazil,               BRA,  fifa › conmebol
+       | Brasilien [de]
 cl   Chile,                CHI,  fifa › conmebol
 co   Colombia,             COL,  fifa › conmebol
+       | Kolumbien [de]
 ec   Ecuador,              ECU,  fifa › conmebol
 py   Paraguay,             PAR,  fifa › conmebol
 pe   Peru,                 PER,  fifa › conmebol

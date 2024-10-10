@@ -5,6 +5,7 @@ ca   Canada,               CAN,  fifa › concacaf › nafu
 us   United States,        USA,  fifa › concacaf › nafu
 mx   Mexico,               MEX,  fifa › concacaf › nafu
       | México [es]
+      | Mexiko [de]
 
 # Territories & Dependencies
 bm   Bermuda › UK,         BER,  fifa › concacaf › cfu
