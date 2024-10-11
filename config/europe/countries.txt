@@ -86,6 +86,7 @@ pt   Portugal,             POR,  fifa › uefa
 ro   Romania,              ROU,  fifa › uefa
        | Rumänien [de]
 ru   Russia,               RUS,  fifa › uefa
+       | Russland [de]
 
 sm   San Marino,  SMR,  fifa › uefa
 rs   Serbia,  SRB,      fifa › uefa
