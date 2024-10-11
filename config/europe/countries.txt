@@ -4,6 +4,7 @@
 # Note: The UEFA member country Israel from Asia is listed in Middle East.
 
 al   Albania,              ALB,   fifa › uefa
+      | Albanien [de]
 ad   Andorra,              AND,   fifa › uefa
 at   Austria,              AUT,   fifa › uefa
       | Österreich [de]
@@ -31,6 +32,7 @@ dk   Denmark,              DEN,   fifa › uefa
       | Dänemark [de]
 
 ee   Estonia,              EST,  fifa › uefa
+      | Estland [de]
 es   Spain,                ESP,  fifa › uefa
       | España [es]
       | Spanien [de]
@@ -61,13 +63,16 @@ lv   Latvia,               LVA,  fifa › uefa
       | Lettland [de]
 li   Liechtenstein,        LIE,  fifa › uefa
 lt   Lithuania,            LTU,  fifa › uefa
+      | Litauen [de]
 lu   Luxembourg,           LUX,  fifa › uefa
+      | Luxemburg [de]
 
 ## note: country renamed to North Macedonia in February 2019
 ##         keeps same fifa code - move Macedonia to history - why? why not?
 mk   North Macedonia,      MKD,  fifa › uefa
       | Republic of North Macedonia
       | Macedonia | FYR Macedonia | Macedonia FYR
+      | Nordmazedonien [de]
 
 mt   Malta,                MLT,  fifa › uefa
 md   Moldova,              MDA,  fifa › uefa
@@ -122,6 +127,7 @@ am   Armenia,              ARM,  fifa › uefa
 az   Azerbaijan,           AZE,  fifa › uefa
        | Aserbaidschan [de]
 ge   Georgia,              GEO,  fifa › uefa
+       | Georgien [de]
 
 
 # Territories & Dependencies

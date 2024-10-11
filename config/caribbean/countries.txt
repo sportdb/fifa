@@ -6,7 +6,9 @@
 
 cu   Cuba,                 CUB,  fifa › concacaf › cfu
 jm   Jamaica,              JAM,  fifa › concacaf › cfu
+       | Jamaika [de]
 do   Dominican Republic,   DOM,  fifa › concacaf › cfu
+       | Dom. Republik [de]
 ht   Haiti,                HAI,  fifa › concacaf › cfu
 
 
