@@ -7,6 +7,7 @@ bo   Bolivia,              BOL,  fifa › conmebol
        | Bolivien [de]
 br   Brazil,               BRA,  fifa › conmebol
        | Brasilien [de]
+       | Brasil [pt]
 cl   Chile,                CHI,  fifa › conmebol
 co   Colombia,             COL,  fifa › conmebol
        | Kolumbien [de]

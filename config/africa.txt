@@ -3,6 +3,7 @@
 
 ### Eastern Africa
 bi   Burundi,              BDI, fifa › caf › cecafa
+       | bur
 dj   Djibouti,             DJI, fifa › caf › cecafa
 er   Eritrea,              ERI, fifa › caf › cecafa
 et   Ethiopia,             ETH, fifa › caf › cecafa
@@ -14,6 +15,7 @@ rw   Rwanda,               RWA, fifa › caf › cecafa
 so   Somalia,              SOM, fifa › caf › cecafa
 tz   Tanzania,             TAN, fifa › caf › cecafa
        | Tansania [de]
+       | tza
 ug   Uganda,               UGA, fifa › caf › cecafa
 
 km   Comoros,              COM, fifa › caf › cosafa
@@ -72,6 +74,7 @@ tn   Tunisia,              TUN, fifa › caf › unaf
 ss   South Sudan,          SSD, fifa › caf › cecafa
       | Südsudan [de]
 sd   Sudan,                SDN, fifa › caf › cecafa
+      | sud
 
 
 ### Southern Africa

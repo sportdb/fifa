@@ -4,7 +4,7 @@
 ca   Canada,               CAN,  fifa › concacaf › nafu
       | Kanada [de]
 us   United States,        USA,  fifa › concacaf › nafu
-      | USA    ### note - incl. USA as name too - why? why not?
+      | USA       ### note - incl. USA as name too - why? why not?
 mx   Mexico,               MEX,  fifa › concacaf › nafu
       | México [es]
       | Mexiko [de]

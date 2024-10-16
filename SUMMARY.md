@@ -2,7 +2,7 @@
 ### National Teams
 
 
-**[africa/countries.txt](africa/countries.txt)** _(56)_ --
+**[africa.txt](config/africa.txt)** _(56)_ --
 Algeria _(dz)_ •
 Egypt _(eg)_ •
 Morocco _(ma)_ •
@@ -62,7 +62,7 @@ Réunion _(re)_
 
 
 
-**[asia/countries.txt](asia/countries.txt)** _(32)_ --
+**[asia.txt](config/asia.txt)** _(32)_ --
 Kazakhstan _(kz)_ •
 Afghanistan _(af)_ •
 Bangladesh _(bd)_ •
@@ -98,7 +98,7 @@ Vietnam _(vn)_
 
 
 
-**[caribbean/countries.txt](caribbean/countries.txt)** _(28)_ --
+**[caribbean.txt](config/caribbean.txt)** _(28)_ --
 Anguilla _(ai)_ •
 Antigua and Barbuda _(ag)_ •
 Aruba _(aw)_ •
@@ -130,7 +130,7 @@ Sint Maarten _(nl)_
 
 
 
-**[central-america/countries.txt](central-america/countries.txt)** _(7)_ --
+**[central-america.txt](config/central-america.txt)** _(7)_ --
 Honduras _(hn)_ •
 Costa Rica _(cr)_ •
 El Salvador _(sv)_ •
@@ -141,7 +141,7 @@ Nicaragua _(ni)_
 
 
 
-**[europe/countries.txt](europe/countries.txt)** _(52)_ --
+**[europe.txt](config/europe.txt)** _(52)_ --
 Austria _(at)_ •
 Belgium _(be)_ •
 Cyprus _(cy)_ •
@@ -197,7 +197,7 @@ Gibraltar _(gi)_
 
 
 
-**[middle-east/countries.txt](middle-east/countries.txt)** _(14)_ --
+**[middle-east.txt](config/middle-east.txt)** _(14)_ --
 Israel _(il)_ •
 Bahrain _(bh)_ •
 Iran _(ir)_ •
@@ -215,14 +215,14 @@ Yemen _(ye)_
 
 
 
-**[north-america/countries.txt](north-america/countries.txt)** _(3)_ --
+**[north-america.txt](config/north-america.txt)** _(3)_ --
 Mexico _(mx)_ •
 United States _(us)_ •
 Canada _(ca)_
 
 
 
-**[pacific/countries.txt](pacific/countries.txt)** _(17)_ --
+**[pacific.txt](config/pacific.txt)** _(17)_ --
 Australia _(au)_ •
 Guam _(gu)_ •
 Northern Mariana Islands _(mp)_ •
@@ -243,7 +243,7 @@ Tuvalu _(tv)_
 
 
 
-**[south-america/countries.txt](south-america/countries.txt)** _(13)_ --
+**[south-america.txt](config/south-america.txt)** _(13)_ --
 Argentina _(ar)_ •
 Brazil _(br)_ •
 Chile _(cl)_ •
@@ -260,7 +260,7 @@ French Guiana _(gf)_
 
 
 
-**[countries_history.txt](countries_history.txt)** _(7)_ --
+**[history.txt](config/history.txt)** _(7)_ --
 Czechoslovakia (-1992) _(cz)_ •
 West Germany (-1989) _(de)_ •
 East Germany (-1989) _(de)_ •

@@ -17,16 +17,16 @@ require_relative 'fifa/org_index'
 module Fifa
   def self.world
       @world ||=  CountryIndex.read(
-                        "#{Fifa.data_dir}/africa/countries.txt",
-                        "#{Fifa.data_dir}/asia/countries.txt",
-                        "#{Fifa.data_dir}/caribbean/countries.txt",
-                        "#{Fifa.data_dir}/central-america/countries.txt",
-                        "#{Fifa.data_dir}/europe/countries.txt",
-                        "#{Fifa.data_dir}/middle-east/countries.txt",
-                        "#{Fifa.data_dir}/north-america/countries.txt",
-                        "#{Fifa.data_dir}/pacific/countries.txt",
-                        "#{Fifa.data_dir}/south-america/countries.txt",
-                        "#{Fifa.data_dir}/countries_history.txt" )
+                        "#{Fifa.data_dir}/africa.txt",
+                        "#{Fifa.data_dir}/asia.txt",
+                        "#{Fifa.data_dir}/caribbean.txt",
+                        "#{Fifa.data_dir}/central-america.txt",
+                        "#{Fifa.data_dir}/europe.txt",
+                        "#{Fifa.data_dir}/middle-east.txt",
+                        "#{Fifa.data_dir}/north-america.txt",
+                        "#{Fifa.data_dir}/pacific.txt",
+                        "#{Fifa.data_dir}/south-america.txt",
+                        "#{Fifa.data_dir}/history.txt" )
   end
 
   ## note: only returns fifa member countries (use world.countries for all) !!!

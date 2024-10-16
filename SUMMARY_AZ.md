@@ -1,245 +1,246 @@
-# Countries A-Z (241)
+# Countries A-Z (242)
 
-| Name   | Code  | Tags | Alt. Names |
+| Name   | Codes | Tags | Alt. Names |
 |--------|-------|------|------------|
-| Afghanistan | AFG | fifa › afc › cafa |  |
-| Albania | ALB | fifa › uefa |  |
-| Algeria | ALG | fifa › caf › unaf |  |
-| American Samoa | ASA | fifa › ofc | Am. Samoa |
-| Andorra | AND | fifa › uefa |  |
-| Angola | ANG | fifa › caf › cosafa |  |
-| Anguilla | AIA | fifa › concacaf › cfu |  |
-| Antigua and Barbuda | ATG | fifa › concacaf › cfu | Antigua/Barb. · Antigua & Barbuda |
-| Argentina | ARG | fifa › conmebol |  |
-| Armenia | ARM | fifa › uefa |  |
-| Artsakh | NKR |  |  |
-| Aruba | ARU | fifa › concacaf › cfu |  |
-| Australia | AUS | fifa › afc › aff |  |
-| Austria | AUT | fifa › uefa | Österreich [de] |
-| Azerbaijan | AZE | fifa › uefa |  |
-| Bahamas | BAH | fifa › concacaf › cfu |  |
-| Bahrain | BHR | fifa › afc › waff |  |
-| Bangladesh | BAN | fifa › afc › saff |  |
-| Barbados | BRB | fifa › concacaf › cfu |  |
-| Basque Country | BSQ |  |  |
-| Belarus | BLR | fifa › uefa |  |
-| Belgium | BEL | fifa › uefa |  |
-| Belize | BLZ | fifa › concacaf › uncaf |  |
-| Benin | BEN | fifa › caf › wafu |  |
-| Bermuda | BER | fifa › concacaf › cfu |  |
-| Bhutan | BHU | fifa › afc › saff |  |
-| Bolivia | BOL | fifa › conmebol |  |
-| Bonaire | BOE | concacaf › cfu |  |
-| Bosnia and Herzegovina | BIH | fifa › uefa | Bosnia-Herzegovina · Bosnia · Bosnia-Herz. |
-| Botswana | BOT | fifa › caf › cosafa |  |
-| Brazil | BRA | fifa › conmebol |  |
-| British Virgin Islands | VGB | fifa › concacaf › cfu |  |
-| Brunei | BRU | fifa › afc › aff | Brunei Darussalam |
-| Bulgaria | BUL | fifa › uefa |  |
-| Burkina Faso | BFA | fifa › caf › wafu |  |
-| Burundi | BDI | fifa › caf › cecafa |  |
-| Cabo Verde | CPV | fifa › caf › wafu | Cape Verde · Cape Verde Islands |
-| Cambodia | CAM | fifa › afc › aff |  |
-| Cameroon | CMR | fifa › caf › uniffac |  |
-| Canada | CAN | fifa › concacaf › nafu |  |
-| Catalonia | CAT |  |  |
-| Cayman Islands | CAY | fifa › concacaf › cfu | Cayman Isl. |
-| Central African Republic | CTA | fifa › caf › uniffac | C. Afr. Rep. |
-| Chad | CHA | fifa › caf › uniffac |  |
-| Chile | CHI | fifa › conmebol |  |
-| China | CHN | fifa › afc › eaff | China PR · People's Republic of China |
-| Colombia | COL | fifa › conmebol |  |
-| Comoros | COM | fifa › caf › cosafa |  |
-| Congo | CGO | fifa › caf › uniffac | Congo-Brazzaville · Congo-Brazz. |
-| Congo DR | COD | fifa › caf › uniffac | DR Congo · Democratic Republic of the Congo · Congo-Kinshasa · Congo-Kinsh. |
-| Cook Islands | COK | fifa › ofc |  |
-| Costa Rica | CRC | fifa › concacaf › uncaf |  |
-| Croatia | CRO | fifa › uefa | Hrvatska [hr] |
-| Cuba | CUB | fifa › concacaf › cfu |  |
-| Curaçao | CUW | fifa › concacaf › cfu |  |
-| Cyprus | CYP | fifa › uefa |  |
-| Czech Republic | CZE | fifa › uefa |  |
-| Czechoslovakia (-1992) | TCH |  |  |
-| Côte d'Ivoire | CIV | fifa › caf › wafu | Ivory Coast [en] |
-| Denmark | DEN | fifa › uefa |  |
-| Djibouti | DJI | fifa › caf › cecafa |  |
-| Dominica | DMA | fifa › concacaf › cfu |  |
-| Dominican Republic | DOM | fifa › concacaf › cfu |  |
-| Dutch East Indies (-1945) | DEI |  |  |
-| East Germany (-1989) | GDR |  |  |
-| Ecuador | ECU | fifa › conmebol |  |
-| Egypt | EGY | fifa › caf › unaf |  |
-| El Salvador | SLV | fifa › concacaf › uncaf |  |
-| England | ENG | fifa › uefa |  |
-| Equatorial Guinea | EQG | fifa › caf › uniffac | Equat. Guinea |
-| Eritrea | ERI | fifa › caf › cecafa |  |
-| Estonia | EST | fifa › uefa |  |
-| Eswatini | SWZ | fifa › caf › cosafa | Swaziland |
-| Ethiopia | ETH | fifa › caf › cecafa |  |
-| Faroe Islands | FRO | fifa › uefa |  |
-| Fiji | FIJ | fifa › ofc |  |
-| Finland | FIN | fifa › uefa |  |
-| France | FRA | fifa › uefa |  |
-| French Guiana | GUF | concacaf › cfu |  |
-| Gabon | GAB | fifa › caf › uniffac |  |
-| Gambia | GAM | fifa › caf › wafu |  |
-| Georgia | GEO | fifa › uefa |  |
-| Germany | GER | fifa › uefa | Deutschland [de] |
-| Ghana | GHA | fifa › caf › wafu |  |
-| Gibraltar | GIB | fifa › uefa |  |
-| Great Britain | GBR |  |  |
-| Greece | GRE | fifa › uefa |  |
-| Greenland | GRL |  |  |
-| Grenada | GRN | fifa › concacaf › cfu |  |
-| Guadeloupe | GLP | concacaf › cfu |  |
-| Guam | GUM | fifa › afc › eaff |  |
-| Guatemala | GUA | fifa › concacaf › uncaf |  |
-| Guinea | GUI | fifa › caf › wafu |  |
-| Guinea-Bissau | GNB | fifa › caf › wafu |  |
-| Guyana | GUY | fifa › concacaf › cfu |  |
-| Haiti | HAI | fifa › concacaf › cfu |  |
-| Honduras | HON | fifa › concacaf › uncaf |  |
-| Hong Kong | HKG | fifa › afc › eaff |  |
-| Hungary | HUN | fifa › uefa |  |
-| Iceland | ISL | fifa › uefa |  |
-| India | IND | fifa › afc › saff |  |
-| Indonesia | IDN | fifa › afc › aff |  |
-| Iran | IRN | fifa › afc › cafa | IR Iran · Islamic Republic of Iran |
-| Iraq | IRQ | fifa › afc › waff |  |
-| Ireland | IRL | fifa › uefa | Republic of Ireland |
-| Israel | ISR | fifa › uefa |  |
-| Italy | ITA | fifa › uefa |  |
-| Jamaica | JAM | fifa › concacaf › cfu |  |
-| Japan | JPN | fifa › afc › eaff |  |
-| Jordan | JOR | fifa › afc › waff |  |
-| Kazakhstan | KAZ | fifa › uefa |  |
-| Kenya | KEN | fifa › caf › cecafa |  |
-| Kiribati | KIR | ofc |  |
-| Kosovo | KVX | fifa › uefa | KOS |
-| Kuwait | KUW | fifa › afc › waff |  |
-| Kyrgyzstan | KGZ | fifa › afc › cafa | Kyrgyz Republic |
-| Laos | LAO | fifa › afc › aff |  |
-| Latvia | LVA | fifa › uefa | Latvija |
-| Lebanon | LIB | fifa › afc › waff |  |
-| Lesotho | LES | fifa › caf › cosafa |  |
-| Liberia | LBR | fifa › caf › wafu |  |
-| Libya | LBY | fifa › caf › unaf |  |
-| Liechtenstein | LIE | fifa › uefa |  |
-| Lithuania | LTU | fifa › uefa |  |
-| Luxembourg | LUX | fifa › uefa |  |
-| Macao | MAC | fifa › afc › eaff | Macau |
-| Madagascar | MAD | fifa › caf › cosafa |  |
-| Malawi | MWI | fifa › caf › cosafa |  |
-| Malaysia | MAS | fifa › afc › aff |  |
-| Maldives | MDV | fifa › afc › saff |  |
-| Mali | MLI | fifa › caf › wafu |  |
-| Malta | MLT | fifa › uefa |  |
-| Martinique | MTQ | concacaf › cfu |  |
-| Mauritania | MTN | fifa › caf › wafu |  |
-| Mauritius | MRI | fifa › caf › cosafa |  |
-| Mexico | MEX | fifa › concacaf › nafu | México [es] |
-| Micronesia | FSM |  | Federated States of Micronesia |
-| Moldova | MDA | fifa › uefa |  |
-| Monaco | MCO |  |  |
-| Mongolia | MNG | fifa › afc › eaff |  |
-| Montenegro | MNE | fifa › uefa |  |
-| Montserrat | MSR | fifa › concacaf › cfu |  |
-| Morocco | MAR | fifa › caf › unaf |  |
-| Mozambique | MOZ | fifa › caf › cosafa |  |
-| Myanmar | MYA | fifa › afc › aff |  |
-| Namibia | NAM | fifa › caf › cosafa |  |
-| Nepal | NEP | fifa › afc › saff |  |
-| Netherlands | NED | fifa › uefa |  |
-| New Caledonia | NCL | fifa › ofc |  |
-| New Zealand | NZL | fifa › ofc |  |
-| Nicaragua | NCA | fifa › concacaf › uncaf |  |
-| Niger | NIG | fifa › caf › wafu |  |
-| Nigeria | NGA | fifa › caf › wafu |  |
-| Niue | NIU | ofc |  |
-| North Korea | PRK | fifa › afc › eaff | Korea DPR · Democratic People's Republic of Korea |
-| North Macedonia | MKD | fifa › uefa | Republic of North Macedonia · Macedonia · FYR Macedonia · Macedonia FYR |
-| Northern Cyprus | TRNC |  |  |
-| Northern Ireland | NIR | fifa › uefa | N. Ireland |
-| Northern Mariana Islands | NMI | afc › eaff |  |
-| Norway | NOR | fifa › uefa |  |
-| Oman | OMA | fifa › afc › waff |  |
-| Pakistan | PAK | fifa › afc › saff |  |
-| Palau | PLW |  |  |
-| Palestine | PLE | fifa › afc › waff | Palestinian Territories |
-| Panama | PAN | fifa › concacaf › uncaf | Panamá [es] |
-| Papua New Guinea | PNG | fifa › ofc | Papua N.G. |
-| Paraguay | PAR | fifa › conmebol |  |
-| Peru | PER | fifa › conmebol |  |
-| Philippines | PHI | fifa › afc › aff |  |
-| Poland | POL | fifa › uefa |  |
-| Portugal | POR | fifa › uefa |  |
-| Puerto Rico | PUR | fifa › concacaf › cfu |  |
-| Qatar | QAT | fifa › afc › waff |  |
-| Romania | ROU | fifa › uefa |  |
-| Russia | RUS | fifa › uefa |  |
-| Rwanda | RWA | fifa › caf › cecafa |  |
-| Réunion | REU | caf |  |
-| Saint Kitts and Nevis | SKN | fifa › concacaf › cfu | St. Kitts/N. · St. Kitts & Nevis |
-| Saint Lucia | LCA | fifa › concacaf › cfu |  |
-| Saint Martin | SMN | concacaf › cfu | Saint Martin (French part) |
-| Saint Vincent and the Grenadines | VIN | fifa › concacaf › cfu | St. Vincent/G. · St. Vincent & The Grenadines |
-| Samoa | SAM | fifa › ofc |  |
-| San Marino | SMR | fifa › uefa |  |
-| Saudi Arabia | KSA | fifa › afc › waff |  |
-| Scotland | SCO | fifa › uefa |  |
-| Senegal | SEN | fifa › caf › wafu |  |
-| Serbia | SRB | fifa › uefa |  |
-| Serbia and Montenegro (-2006) | SCG |  | Serbia & Montenegro |
-| Seychelles | SEY | fifa › caf › cosafa |  |
-| Sierra Leone | SLE | fifa › caf › wafu |  |
-| Singapore | SIN | fifa › afc › aff |  |
-| Sint Maarten | SMA | concacaf › cfu | Sint Maarten (Dutch part) |
-| Slovakia | SVK | fifa › uefa |  |
-| Slovenia | SVN | fifa › uefa |  |
-| Solomon Islands | SOL | fifa › ofc | Solomon Isl. |
-| Somalia | SOM | fifa › caf › cecafa |  |
-| South Africa | RSA | fifa › caf › cosafa |  |
-| South Korea | KOR | fifa › afc › eaff | Korea Republic · Republic of Korea |
-| South Sudan | SSD | fifa › caf › cecafa |  |
-| Soviet Union (-1991) | URS |  |  |
-| Spain | ESP | fifa › uefa | España [es] |
-| Sri Lanka | SRI | fifa › afc › saff |  |
-| Sudan | SDN | fifa › caf › cecafa |  |
-| Suriname | SUR | fifa › concacaf › cfu |  |
-| Sweden | SWE | fifa › uefa |  |
-| Switzerland | SUI | fifa › uefa | Confoederatio Helvetica |
-| Syria | SYR | fifa › afc › waff |  |
-| São Tomé and Príncipe | STP | fifa › caf › uniffac | São Tomé e Príncipe · São Tomé/Pr. |
-| Tahiti | TAH | fifa › ofc | French Polynesia |
-| Taiwan | TPE | fifa › afc › eaff | Chinese Taipei · Republic of China |
-| Tajikistan | TJK | fifa › afc › cafa |  |
-| Tanzania | TAN | fifa › caf › cecafa |  |
-| Thailand | THA | fifa › afc › aff |  |
-| Timor-Leste | TLS | fifa › afc › aff | East Timor |
-| Togo | TOG | fifa › caf › wafu |  |
-| Tonga | TGA | fifa › ofc |  |
-| Trinidad and Tobago | TRI | fifa › concacaf › cfu | Trinidad/Tob. · Trinidad & Tobago |
-| Tunisia | TUN | fifa › caf › unaf |  |
-| Turkey | TUR | fifa › uefa |  |
-| Turkmenistan | TKM | fifa › afc › cafa |  |
-| Turks and Caicos Islands | TCA | fifa › concacaf › cfu | Turks & Caicos Islands |
-| Tuvalu | TUV | ofc |  |
-| US Virgin Islands | VIR | fifa › concacaf › cfu | United States Virgin Islands · US Virgin I. |
-| Uganda | UGA | fifa › caf › cecafa |  |
-| Ukraine | UKR | fifa › uefa |  |
-| United Arab Emirates | UAE | fifa › afc › waff | UA Emirates |
-| United States | USA | fifa › concacaf › nafu |  |
-| Uruguay | URU | fifa › conmebol |  |
-| Uzbekistan | UZB | fifa › afc › cafa |  |
-| Vanuatu | VAN | fifa › ofc |  |
-| Vatican City | VAT |  |  |
-| Venezuela | VEN | fifa › conmebol |  |
-| Vietnam | VIE | fifa › afc › aff |  |
-| Wales | WAL | fifa › uefa |  |
-| West Germany (-1989) | FRG |  |  |
-| Yemen | YEM | fifa › afc › waff |  |
-| Yugoslavia (-2003) | YUG |  |  |
-| Zaire (-1997) | ZAI |  |  |
-| Zambia | ZAM | fifa › caf › cosafa |  |
-| Zanzibar | ZAN | caf › cecafa |  |
-| Zimbabwe | ZIM | fifa › caf › cosafa |  |
+| Afghanistan | af · afg | fifa › afc › cafa |  |
+| Albania | al · alb | fifa › uefa | Albanien [de] |
+| Algeria | dz · alg | fifa › caf › unaf | Algerien [de] |
+| American Samoa | as · asa | fifa › ofc | Am. Samoa |
+| Andorra | ad · and | fifa › uefa |  |
+| Angola | ao · ang | fifa › caf › cosafa |  |
+| Anguilla | ai · aia | fifa › concacaf › cfu |  |
+| Antigua and Barbuda | ag · atg | fifa › concacaf › cfu | Antigua/Barb. · Antigua & Barbuda |
+| Argentina | ar · arg | fifa › conmebol | Argentinien [de] |
+| Armenia | am · arm | fifa › uefa | Armenien [de] |
+| Artsakh | nkr |  |  |
+| Aruba | aw · aru | fifa › concacaf › cfu |  |
+| Australia | au · aus | fifa › afc › aff |  |
+| Austria | at · aut · a · ö | fifa › uefa | Österreich [de] |
+| Azerbaijan | az · aze | fifa › uefa | Aserbaidschan [de] |
+| Bahamas | bs · bah | fifa › concacaf › cfu |  |
+| Bahrain | bh · bhr | fifa › afc › waff |  |
+| Bangladesh | bd · ban | fifa › afc › saff |  |
+| Barbados | bb · brb | fifa › concacaf › cfu |  |
+| Basque Country | bsq |  |  |
+| Belarus | by · blr | fifa › uefa |  |
+| Belgium | be · bel · b | fifa › uefa | Belgien [de] |
+| Belize | bz · blz | fifa › concacaf › uncaf |  |
+| Benin | bj · ben | fifa › caf › wafu |  |
+| Bermuda | bm · ber | fifa › concacaf › cfu |  |
+| Bhutan | bt · bhu | fifa › afc › saff |  |
+| Bolivia | bo · bol | fifa › conmebol | Bolivien [de] |
+| Bonaire | bq · boe | concacaf › cfu |  |
+| Bosnia and Herzegovina | ba · bih · bos | fifa › uefa | Bosnia-Herzegovina · Bosnia · Bosnia-Herz. · Bosnien-Herzegowina [de] |
+| Botswana | bw · bot | fifa › caf › cosafa |  |
+| Brazil | br · bra | fifa › conmebol | Brasilien [de] · Brasil [pt] |
+| British Virgin Islands | vg · vgb | fifa › concacaf › cfu |  |
+| Brunei | bn · bru | fifa › afc › aff | Brunei Darussalam |
+| Bulgaria | bg · bul | fifa › uefa | Bulgarien [de] |
+| Burkina Faso | bf · bfa | fifa › caf › wafu |  |
+| Burundi | bi · bdi · bur | fifa › caf › cecafa |  |
+| Cabo Verde | cv · cpv | fifa › caf › wafu | Cape Verde · Cape Verde Islands · Kapverdische Inseln [de] |
+| Cambodia | kh · cam | fifa › afc › aff |  |
+| Cameroon | cm · cmr | fifa › caf › uniffac | Kamerun [de] |
+| Canada | ca · can | fifa › concacaf › nafu | Kanada [de] |
+| Catalonia | cat |  |  |
+| Cayman Islands | ky · cay | fifa › concacaf › cfu | Cayman Isl. |
+| Central African Republic | cf · cta | fifa › caf › uniffac | C. Afr. Rep. · Zentralafr. Republik [de] |
+| Chad | td · cha | fifa › caf › uniffac | Tschad [de] |
+| Chile | cl · chi | fifa › conmebol |  |
+| China | cn · chn | fifa › afc › eaff | China PR · People's Republic of China |
+| Colombia | co · col | fifa › conmebol | Kolumbien [de] |
+| Comoros | km · com | fifa › caf › cosafa | Komoren [de] |
+| Congo | cg · cgo | fifa › caf › uniffac | Congo-Brazzaville · Congo-Brazz. · Kongo [de] |
+| Congo DR | cd · cod | fifa › caf › uniffac | DR Congo · Democratic Republic of the Congo · Congo-Kinshasa · Congo-Kinsh. · DR Kongo [de] |
+| Cook Islands | ck · cok | fifa › ofc |  |
+| Costa Rica | cr · crc | fifa › concacaf › uncaf |  |
+| Croatia | hr · cro | fifa › uefa | Hrvatska [hr] · Kroatien [de] |
+| Cuba | cu · cub | fifa › concacaf › cfu |  |
+| Curaçao | cw · cuw | fifa › concacaf › cfu |  |
+| Cyprus | cy · cyp | fifa › uefa | Zypern [de] |
+| Czech Republic | cz · cze | fifa › uefa | Czechia · Tschechien [de] |
+| Czechoslovakia (-1992) | tch |  |  |
+| Côte d'Ivoire | ci · civ | fifa › caf › wafu | Ivory Coast [en] · Elfenbeinküste [de] |
+| Denmark | dk · den | fifa › uefa | Dänemark [de] |
+| Djibouti | dj · dji | fifa › caf › cecafa |  |
+| Dominica | dm · dma | fifa › concacaf › cfu |  |
+| Dominican Republic | do · dom | fifa › concacaf › cfu | Dom. Republik [de] |
+| Dutch East Indies (-1945) | dei |  |  |
+| East Germany (-1989) | gdr |  |  |
+| Ecuador | ec · ecu | fifa › conmebol |  |
+| Egypt | eg · egy | fifa › caf › unaf | Ägypten [de] |
+| El Salvador | sv · slv | fifa › concacaf › uncaf |  |
+| England | eng · en | fifa › uefa |  |
+| Equatorial Guinea | gq · eqg | fifa › caf › uniffac | Equat. Guinea · Äquatorialguinea [de] |
+| Eritrea | er · eri | fifa › caf › cecafa |  |
+| Estonia | ee · est | fifa › uefa | Estland [de] |
+| Eswatini | sz · swz | fifa › caf › cosafa | Swaziland |
+| Ethiopia | et · eth | fifa › caf › cecafa | Äthiopien [de] |
+| Faroe Islands | fo · fro | fifa › uefa | Färöer [de] |
+| Fiji | fj · fij | fifa › ofc |  |
+| Finland | fi · fin | fifa › uefa | Finnland [de] |
+| France | fr · fra · f | fifa › uefa | Frankreich [de] |
+| French Guiana | gf · guf | concacaf › cfu |  |
+| Gabon | ga · gab | fifa › caf › uniffac | Gabun [de] |
+| Galicia | gal |  |  |
+| Gambia | gm · gam | fifa › caf › wafu |  |
+| Georgia | ge · geo | fifa › uefa | Georgien [de] |
+| Germany | de · ger · d | fifa › uefa | Deutschland [de] |
+| Ghana | gh · gha | fifa › caf › wafu |  |
+| Gibraltar | gi · gib | fifa › uefa |  |
+| Great Britain | uk · gbr · gb |  |  |
+| Greece | gr · gre | fifa › uefa | Griechenland [de] |
+| Greenland | gl · grl |  |  |
+| Grenada | gd · grn | fifa › concacaf › cfu |  |
+| Guadeloupe | gp · glp | concacaf › cfu |  |
+| Guam | gu · gum | fifa › afc › eaff |  |
+| Guatemala | gt · gua | fifa › concacaf › uncaf |  |
+| Guinea | gn · gui | fifa › caf › wafu |  |
+| Guinea-Bissau | gw · gnb | fifa › caf › wafu |  |
+| Guyana | gy · guy | fifa › concacaf › cfu |  |
+| Haiti | ht · hai | fifa › concacaf › cfu |  |
+| Honduras | hn · hon | fifa › concacaf › uncaf |  |
+| Hong Kong | hk · hkg | fifa › afc › eaff |  |
+| Hungary | hu · hun · h | fifa › uefa | Ungarn [de] |
+| Iceland | is · isl | fifa › uefa | Island [de] |
+| India | in · ind | fifa › afc › saff |  |
+| Indonesia | id · idn | fifa › afc › aff |  |
+| Iran | ir · irn · iri | fifa › afc › cafa | IR Iran · Islamic Republic of Iran |
+| Iraq | iq · irq | fifa › afc › waff |  |
+| Ireland | ie · irl | fifa › uefa | Republic of Ireland · Irland [de] |
+| Israel | il · isr | fifa › uefa |  |
+| Italy | it · ita · i | fifa › uefa | Italien [de] |
+| Jamaica | jm · jam | fifa › concacaf › cfu | Jamaika [de] |
+| Japan | jp · jpn · j | fifa › afc › eaff |  |
+| Jordan | jo · jor | fifa › afc › waff |  |
+| Kazakhstan | kz · kaz | fifa › uefa | Kasachstan [de] |
+| Kenya | ke · ken | fifa › caf › cecafa | Kenia [de] |
+| Kiribati | ki · kir | ofc |  |
+| Kosovo | kos · kvx · xk | fifa › uefa |  |
+| Kuwait | kw · kuw | fifa › afc › waff |  |
+| Kyrgyzstan | kg · kgz | fifa › afc › cafa | Kyrgyz Republic |
+| Laos | la · lao | fifa › afc › aff |  |
+| Latvia | lv · lva · lat | fifa › uefa | Latvija · Lettland [de] |
+| Lebanon | lb · lib | fifa › afc › waff |  |
+| Lesotho | ls · les | fifa › caf › cosafa |  |
+| Liberia | lr · lbr | fifa › caf › wafu |  |
+| Libya | ly · lby | fifa › caf › unaf | Libyen [de] |
+| Liechtenstein | li · lie | fifa › uefa |  |
+| Lithuania | lt · ltu · lit | fifa › uefa | Litauen [de] |
+| Luxembourg | lu · lux · l | fifa › uefa | Luxemburg [de] |
+| Macao | mo · mac | fifa › afc › eaff | Macau |
+| Madagascar | mg · mad | fifa › caf › cosafa | Madagaskar [de] |
+| Malawi | mw · mwi | fifa › caf › cosafa |  |
+| Malaysia | my · mas | fifa › afc › aff |  |
+| Maldives | mv · mdv | fifa › afc › saff |  |
+| Mali | ml · mli | fifa › caf › wafu |  |
+| Malta | mt · mlt · m | fifa › uefa |  |
+| Martinique | mq · mtq | concacaf › cfu |  |
+| Mauritania | mr · mtn | fifa › caf › wafu | Mauretanien [de] |
+| Mauritius | mu · mri | fifa › caf › cosafa |  |
+| Mexico | mx · mex | fifa › concacaf › nafu | México [es] · Mexiko [de] |
+| Micronesia | fm · fsm |  | Federated States of Micronesia |
+| Moldova | md · mda | fifa › uefa | Moldau [de] |
+| Monaco | mc · mco · mon |  |  |
+| Mongolia | mn · mng · mgl | fifa › afc › eaff |  |
+| Montenegro | me · mne | fifa › uefa |  |
+| Montserrat | ms · msr | fifa › concacaf › cfu |  |
+| Morocco | ma · mar | fifa › caf › unaf | Marokko [de] |
+| Mozambique | mz · moz | fifa › caf › cosafa | Mosambik [de] |
+| Myanmar | mm · mya · mmr | fifa › afc › aff |  |
+| Namibia | na · nam | fifa › caf › cosafa |  |
+| Nepal | np · nep | fifa › afc › saff |  |
+| Netherlands | nl · ned | fifa › uefa | Niederlande [de] |
+| New Caledonia | nc · ncl | fifa › ofc |  |
+| New Zealand | nz · nzl | fifa › ofc |  |
+| Nicaragua | ni · nca · nic | fifa › concacaf › uncaf |  |
+| Niger | ne · nig | fifa › caf › wafu |  |
+| Nigeria | ng · nga | fifa › caf › wafu |  |
+| Niue | nu · niu | ofc |  |
+| North Korea | kp · prk | fifa › afc › eaff | Korea DPR · Democratic People's Republic of Korea |
+| North Macedonia | mk · mkd | fifa › uefa | Republic of North Macedonia · Macedonia · FYR Macedonia · Macedonia FYR · Nordmazedonien [de] |
+| Northern Cyprus | trnc |  |  |
+| Northern Ireland | nir · nirl | fifa › uefa | N. Ireland · Nordirland [de] |
+| Northern Mariana Islands | mp · nmi | afc › eaff |  |
+| Norway | no · nor · n | fifa › uefa | Norwegen [de] |
+| Oman | om · oma | fifa › afc › waff |  |
+| Pakistan | pk · pak | fifa › afc › saff |  |
+| Palau | pw · plw |  |  |
+| Palestine | ps · ple | fifa › afc › waff | Palestinian Territories |
+| Panama | pa · pan | fifa › concacaf › uncaf | Panamá [es] |
+| Papua New Guinea | pg · png | fifa › ofc | Papua N.G. |
+| Paraguay | py · par | fifa › conmebol |  |
+| Peru | pe · per | fifa › conmebol |  |
+| Philippines | ph · phi | fifa › afc › aff |  |
+| Poland | pl · pol | fifa › uefa | Polen [de] |
+| Portugal | pt · por · p | fifa › uefa |  |
+| Puerto Rico | pr · pur | fifa › concacaf › cfu |  |
+| Qatar | qa · qat | fifa › afc › waff |  |
+| Romania | ro · rou · rom | fifa › uefa | Rumänien [de] |
+| Russia | ru · rus | fifa › uefa | Russland [de] |
+| Rwanda | rw · rwa | fifa › caf › cecafa | Ruanda [de] |
+| Réunion | re · reu | caf |  |
+| Saint Kitts and Nevis | kn · skn | fifa › concacaf › cfu | St. Kitts/N. · St. Kitts & Nevis |
+| Saint Lucia | lc · lca | fifa › concacaf › cfu |  |
+| Saint Martin | mf · smn | concacaf › cfu | Saint Martin (French part) |
+| Saint Vincent and the Grenadines | vc · vin | fifa › concacaf › cfu | St. Vincent/G. · St. Vincent & The Grenadines |
+| Samoa | ws · sam | fifa › ofc |  |
+| San Marino | sm · smr | fifa › uefa |  |
+| Saudi Arabia | sa · ksa · sau · saud | fifa › afc › waff |  |
+| Scotland | sco | fifa › uefa | Schottland [de] |
+| Senegal | sn · sen | fifa › caf › wafu |  |
+| Serbia | rs · srb · ser · serb | fifa › uefa | Serbien [de] |
+| Serbia and Montenegro (-2006) | scg |  | Serbia & Montenegro |
+| Seychelles | sc · sey | fifa › caf › cosafa | Seychellen [de] |
+| Sierra Leone | sl · sle | fifa › caf › wafu |  |
+| Singapore | sg · sin | fifa › afc › aff |  |
+| Sint Maarten | sx · sma | concacaf › cfu | Sint Maarten (Dutch part) |
+| Slovakia | sk · svk | fifa › uefa | Slowakei [de] |
+| Slovenia | si · svn · slo | fifa › uefa | Slowenien [de] |
+| Solomon Islands | sb · sol | fifa › ofc | Solomon Isl. |
+| Somalia | so · som | fifa › caf › cecafa |  |
+| South Africa | za · rsa | fifa › caf › cosafa | Südafrika [de] |
+| South Korea | kr · kor | fifa › afc › eaff | Korea Republic · Republic of Korea |
+| South Sudan | ss · ssd | fifa › caf › cecafa | Südsudan [de] |
+| Soviet Union (-1991) | urs |  |  |
+| Spain | es · esp · e | fifa › uefa | España [es] · Spanien [de] |
+| Sri Lanka | lk · sri | fifa › afc › saff |  |
+| Sudan | sd · sdn · sud | fifa › caf › cecafa |  |
+| Suriname | sr · sur | fifa › concacaf › cfu |  |
+| Sweden | se · swe · s | fifa › uefa | Schweden [de] |
+| Switzerland | ch · sui | fifa › uefa | Confoederatio Helvetica · Schweiz [de] |
+| Syria | sy · syr | fifa › afc › waff |  |
+| São Tomé and Príncipe | st · stp | fifa › caf › uniffac | São Tomé e Príncipe · São Tomé/Pr. · São Tomé und Príncipe [de] |
+| Tahiti | pf · tah | fifa › ofc | French Polynesia |
+| Taiwan | tw · tpe · twn | fifa › afc › eaff | Chinese Taipei · Republic of China |
+| Tajikistan | tj · tjk · taj | fifa › afc › cafa |  |
+| Tanzania | tz · tan · tza | fifa › caf › cecafa | Tansania [de] |
+| Thailand | th · tha | fifa › afc › aff |  |
+| Timor-Leste | tl · tls | fifa › afc › aff | East Timor |
+| Togo | tg · tog | fifa › caf › wafu |  |
+| Tonga | to · tga | fifa › ofc |  |
+| Trinidad and Tobago | tt · tri | fifa › concacaf › cfu | Trinidad/Tob. · Trinidad & Tobago |
+| Tunisia | tn · tun | fifa › caf › unaf | Tunesien [de] |
+| Turkey | tr · tur | fifa › uefa | Türkei [de] |
+| Turkmenistan | tm · tkm · turk | fifa › afc › cafa |  |
+| Turks and Caicos Islands | tc · tca | fifa › concacaf › cfu | Turks & Caicos Islands |
+| Tuvalu | tv · tuv | ofc |  |
+| US Virgin Islands | vi · vir | fifa › concacaf › cfu | United States Virgin Islands · US Virgin I. |
+| Uganda | ug · uga | fifa › caf › cecafa |  |
+| Ukraine | ua · ukr | fifa › uefa |  |
+| United Arab Emirates | ae · uae | fifa › afc › waff | UA Emirates |
+| United States | us · usa | fifa › concacaf › nafu | USA |
+| Uruguay | uy · uru | fifa › conmebol |  |
+| Uzbekistan | uz · uzb | fifa › afc › cafa |  |
+| Vanuatu | vu · van | fifa › ofc |  |
+| Vatican City | va · vat · v |  | Vatican |
+| Venezuela | ve · ven | fifa › conmebol |  |
+| Vietnam | vn · vie | fifa › afc › aff |  |
+| Wales | wal | fifa › uefa |  |
+| West Germany (-1989) | frg |  |  |
+| Yemen | ye · yem | fifa › afc › waff |  |
+| Yugoslavia (-2003) | yug |  |  |
+| Zaire (-1997) | zai |  |  |
+| Zambia | zm · zam | fifa › caf › cosafa | Sambia [de] |
+| Zanzibar | zan | caf › cecafa | Sansibar [de] |
+| Zimbabwe | zw · zim | fifa › caf › cosafa | Simbabwe [de] |

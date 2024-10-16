@@ -3,19 +3,26 @@
 # Note: The UEFA member country Kazachstan from Asia is listed in Asia.
 # Note: The UEFA member country Israel from Asia is listed in Middle East.
 
+# note - add alternate codes in all lowercase (e.g. a, f, d, etc.)
+
 al   Albania,              ALB,   fifa › uefa
       | Albanien [de]
 ad   Andorra,              AND,   fifa › uefa
 at   Austria,              AUT,   fifa › uefa
       | Österreich [de]
+      | a | ö      ## note - make sure ö does NOT get changed/unaccented to o!!!!
 
 
 by   Belarus,              BLR,    fifa › uefa
 be   Belgium,              BEL,    fifa › uefa
       | Belgien [de]
+      | b
+
 ba   Bosnia and Herzegovina,  BIH,  fifa › uefa
       | Bosnia-Herzegovina | Bosnia | Bosnia-Herz.      # add Bosnia Herzegovina?
       | Bosnien-Herzegowina [de]
+      | bos
+
 bg   Bulgaria,             BUL,   fifa › uefa
       | Bulgarien [de]
 
@@ -36,24 +43,30 @@ ee   Estonia,              EST,  fifa › uefa
 es   Spain,                ESP,  fifa › uefa
       | España [es]
       | Spanien [de]
+      | e
 
 fi   Finland,              FIN,  fifa › uefa
       | Finnland [de]
 fr   France,               FRA,  fifa › uefa
       | Frankreich [de]
+      | f
 
 de   Germany,              GER,  fifa › uefa
       | Deutschland [de]
+      | d
+
 gr   Greece,               GRE,  fifa › uefa
       | Griechenland [de]
 
 hu   Hungary,              HUN,  fifa › uefa
       | Ungarn [de]
+      | h
 
 is   Iceland,              ISL,  fifa › uefa
       | Island [de]
 it   Italy,                ITA,  fifa › uefa
       | Italien [de]
+      | i
 ie   Ireland,              IRL,  fifa › uefa
       | Republic of Ireland
       | Irland [de]
@@ -61,11 +74,14 @@ ie   Ireland,              IRL,  fifa › uefa
 lv   Latvia,               LVA,  fifa › uefa
       | Latvija
       | Lettland [de]
+      | lat
 li   Liechtenstein,        LIE,  fifa › uefa
 lt   Lithuania,            LTU,  fifa › uefa
       | Litauen [de]
+      | lit
 lu   Luxembourg,           LUX,  fifa › uefa
       | Luxemburg [de]
+      | l
 
 ## note: country renamed to North Macedonia in February 2019
 ##         keeps same fifa code - move Macedonia to history - why? why not?
@@ -75,6 +91,7 @@ mk   North Macedonia,      MKD,  fifa › uefa
       | Nordmazedonien [de]
 
 mt   Malta,                MLT,  fifa › uefa
+       | m
 md   Moldova,              MDA,  fifa › uefa
       | Moldau [de]
 me   Montenegro,           MNE,  fifa › uefa
@@ -83,25 +100,32 @@ nl   Netherlands,          NED,  fifa › uefa
        | Niederlande [de]
 no   Norway,               NOR,  fifa › uefa
        | Norwegen [de]
+       | n
 
 pl   Poland,               POL,  fifa › uefa
        | Polen [de]
 pt   Portugal,             POR,  fifa › uefa
+       | p
 
 ro   Romania,              ROU,  fifa › uefa
        | Rumänien [de]
+       | rom    # old/historic fifa
 ru   Russia,               RUS,  fifa › uefa
        | Russland [de]
 
 sm   San Marino,  SMR,  fifa › uefa
 rs   Serbia,  SRB,      fifa › uefa
       | Serbien [de]
+      | ser | serb
+
 sk   Slovakia,  SVK,     fifa › uefa
       | Slowakei [de]
 si   Slovenia,  SVN,     fifa › uefa
       | Slowenien [de]
+      | slo   # iso code
 se   Sweden,  SWE,       fifa › uefa
       | Schweden [de]
+      | s
 ch   Switzerland,  SUI,  fifa › uefa
       | Confoederatio Helvetica
       | Schweiz [de]
@@ -112,12 +136,10 @@ ua   Ukraine,  UKR,  fifa › uefa
 
 ## old kosovo version
 # -- note: Kosovo is not listed as an ISO standard country. The unofficial 2 and 3-digit codes are used by the European Commission and others until Kosovo is assigned an ISO code
-#    note: KOS used by UEFA, KVX by FIFA (use FIFA code for now)
-# xk   Kosovo,  KVX,  fifa › uefa
-#       | KOS
-
+#    note: KOS used by UEFA, KVX by FIFA (use UEFA code for now)
 kos   Kosovo,  KOS,  fifa › uefa
        | kvx | xk
+
 
 ##  south caucasus
 ## - add to middle east?
@@ -141,22 +163,26 @@ cat  Catalonia      › ES,  CAT   # note: NOT fifa or uefa member
 gal  Galicia        › ES,  GAL   # note: NOT fifa or uefa member
 
 ## note: uses four-letter codes!
-trnc Northern Cyprus › CY, TRNC  # note: NOT fifa or uefa member
+trnc  Northern Cyprus › CY, TRNC  # note: NOT fifa or uefa member
 
 ## not members
 # - Great Britain - only all its member e.g. England/Wales/Scotland/Northern Irland
 uk   Great Britain,    GBR     # note: NOT fifa or uefa member
+       | gb
 eng  England          › UK, ENG,  fifa › uefa
+       | en
 wal  Wales            › UK, WAL,  fifa › uefa
 sco  Scotland         › UK, SCO,  fifa › uefa
       | Schottland [de]
 nir  Northern Ireland › UK, NIR,  fifa › uefa
       | N. Ireland
       | Nordirland [de]
+      | nirl
 
 ## irregular codes
 va   Vatican City,  VAT    ## no "official" fifa code - listed in "irregular" codes
       | Vatican
+      | v
 mc   Monaco,        MCO    ## no "official" fifa code - listed in "irregular" codes
-
+       | mon     # alternate fifa code (use instead of MCO - why? why not?)
 

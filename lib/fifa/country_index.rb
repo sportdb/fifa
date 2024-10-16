@@ -71,32 +71,34 @@ class CountryIndex
   def _add( recs )
     recs.each do |rec|
       ## step 1 - add code lookups - key, fifa, ...
-      ##  todo/fix - add  two-letter keys and alt keys - why? why not?
-      key = rec.code.downcase
-      if @by_code[ key ]
-        puts "** !!! ERROR !!! country code (fifa)  >#{rec.code}< already exits!!"
-        exit 1
-      else
-        @by_code[ key ] = rec
-      end
-
-
-      ## step 2 - add name lookups
-      keys = [ normalize( unaccent( strip_year( rec.name ))) ]
-
-      rec.alt_names.each do |name|
-         keys <<  normalize( unaccent( strip_year(strip_lang(name)) ))
-      end
-      ## note - allow duplicates only if same country
-      ##   e.g Panama, Panamá
-      keys = keys.uniq
-
-      keys.each do |key|
-        if @by_name[ key ]
-          puts "** !!! ERROR country (norm) name  >#{key}< already exits"
+      rec.codes.each do |code|
+        if @by_code.has_key?( code )
+          puts "** !!! ERROR - country code already in use >#{code}<; sorry - no duplicates allowed!!"
+          pp rec
+          pp @by_code[ code ]
           exit 1
         else
-          @by_name[ key ] = rec
+          @by_code[ code ] = rec
+        end
+      end
+
+      ## step 2 - add name lookups
+      names = rec.names
+      ## remove year and norm
+      names = names.map { |name| normalize( unaccent( strip_year( name ))) }
+
+      ## note - allow duplicates only if same country
+      ##   e.g Panama, Panamá
+      names = names.uniq
+
+      names.each do |name|
+        if @by_name.has_key?( name )
+          puts "** !!! ERROR - country (norm) name already in use >#{name}<; sorry - no duplicates allowed!!"
+          pp rec
+          pp @by_name[ name ]
+          exit 1
+        else
+          @by_name[ name ] = rec
         end
       end
     end

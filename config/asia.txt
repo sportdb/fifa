@@ -9,12 +9,16 @@ kz   Kazakhstan,           KAZ,  fifa › uefa     # note: was formerly a member
 kg   Kyrgyzstan,           KGZ,  fifa › afc › cafa
       | Kyrgyz Republic
 tj   Tajikistan,           TJK,  fifa › afc › cafa
+       | taj
 tm   Turkmenistan,         TKM,  fifa › afc › cafa
+       | turk
 uz   Uzbekistan,           UZB,  fifa › afc › cafa
+
 
 
 ### East Asia
 jp   Japan,                JPN,  fifa › afc › eaff
+      | j
 kr   South Korea,          KOR,  fifa › afc › eaff
       | Korea Republic | Republic of Korea    ## use "Korea, Republic"
 kp   North Korea,          PRK,  fifa › afc › eaff
@@ -23,7 +27,10 @@ cn   China,                CHN,  fifa › afc › eaff
       | China PR | People's Republic of China                ## use "China, PR"
 tw   Taiwan,               TPE,  fifa › afc › eaff    #  was a member of OFC from 1975 to 1989
       | Chinese Taipei |  Republic of China
+      | twn
 mn   Mongolia,             MNG,  fifa › afc › eaff
+      | mgl
+
 
 # Territories & dependencies
 hk   Hong Kong › CN,       HKG,  fifa › afc › eaff
@@ -52,6 +59,7 @@ vn   Vietnam,              VIE,  fifa › afc › aff
 bn   Brunei,               BRU,  fifa › afc › aff
       | Brunei Darussalam
 mm   Myanmar,              MYA,  fifa › afc › aff
+       | mmr
 kh   Cambodia,             CAM,  fifa › afc › aff
 tl   Timor-Leste,          TLS,  fifa › afc › aff
       | East Timor

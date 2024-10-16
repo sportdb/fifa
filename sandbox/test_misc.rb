@@ -4,6 +4,7 @@
 
 
 ## note: use the local version of fifa gem
+$LOAD_PATH.unshift( File.expand_path( '../sport.db/sportdb-structs/lib'))
 $LOAD_PATH.unshift( File.expand_path( './lib'))
 require 'fifa'
 
@@ -48,9 +49,25 @@ pp Fifa.world.find_by_name( 'Österreich' )
 
 pp Fifa.world.find_by_name( 'Germany' )
 pp Fifa.world.find_by_name( 'Deutschland' )
+
 pp Fifa.world.find_by_name( 'Kosovo' )
+pp Fifa.world.find_by_code( 'Kos' )
+pp Fifa.world.find_by_code( 'kvx' )
+pp Fifa.world.find_by_code( 'xk' )
+
+pp Fifa.world.find_by_name( 'United States' )
+pp Fifa.world.find_by_name( 'USA' )
 
 pp Fifa.world.find_by_name( 'Yugoslavia' )
 pp Fifa.world.find_by_name( 'East Germany' )
+
+
+pp Fifa.world.find_by_code( 'iri' )
+pp Fifa.world.find_by_code( 'saud' )
+pp Fifa.world.find_by_code( 'nirl' )
+pp Fifa.world.find_by_code( 'ö' )
+pp Fifa.world.find_by_code( 'd' )
+pp Fifa.world.find_by_code( 'i' )
+
 
 puts "bye"

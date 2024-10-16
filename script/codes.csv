@@ -2,7 +2,7 @@
 #  FIFA Country Codes
 #   see en.wikipedia.org/wiki/List_of_FIFA_country_codes
 
-Country, Code
+country, code
 
 ## FIFA member codes
 Afghanistan, AFG
@@ -107,7 +107,7 @@ Japan, JPN
 Jordan, JOR
 Kazakhstan, KAZ
 Kenya, KEN
-Kosovo, KVX
+Kosovo, KOS
 Kuwait, KUW
 Kyrgyzstan, KGZ
 Laos, LAO
@@ -210,7 +210,7 @@ Ukraine, UKR
 United Arab Emirates, UAE
 United States, USA
 Uruguay, URU
-U.S. Virgin Islands, VIR
+US Virgin Islands, VIR
 Uzbekistan, UZB
 Vanuatu, VAN
 Venezuela, VEN
@@ -231,7 +231,7 @@ Greenland, GRL
 Guadeloupe, GLP
 Kiribati, KIR
 Martinique, MTQ
-## !!!! FIX !!!!!  Northern Cyprus, TRNC
+Northern Cyprus, TRNC
 Northern Mariana Islands, NMI
 Réunion, REU
 Saint Martin, SMN

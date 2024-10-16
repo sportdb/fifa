@@ -1,40 +1,43 @@
 ## note: use the local version of fifa gem
+$LOAD_PATH.unshift( File.expand_path( '../sport.db/sportdb-structs/lib'))
 $LOAD_PATH.unshift( File.expand_path( './lib'))
 require 'fifa'
+require 'cocos'
 
 
 recs = read_csv( './script/codes.csv' )
 pp recs
 
 
-def strip_lang( name )  SportDb::Import::Country.strip_lang( name ); end
-def normalize( name )   SportDb::Import::Country.normalize( name ); end
 
+
+include SportDb::NameHelper
 
 recs.each do |rec|
-   country = Fifa[ rec[:code] ]
+   country = Fifa[ rec['code'] ]
    if country.nil?
-     puts "** !!! ERROR !!! no code found for:"
+     puts "** !!! ERROR !!! no record found for code >#{rec['code']}<:"
      pp rec
      exit 1
    else
      print "."
 
-     ## check country name too
-     names = [country.name]+country.alt_names
-
-     names = names.map do |name|   ## normalize
-       name = strip_lang( name )
-       name = normalize( name )
-       name
+     ## also check that codes match (not only via alt code!!)
+     if rec['code'] != country.code
+        puts "** !!! WARN - canonicial codes do NOT match"
+        pp rec
+        pp country
      end
 
-     if names.include?( normalize( rec[:country] )) == false
+     ## check country name too
+     names = country.names
+     names = names.map { |name| strip_year( name ) }
+
+     if !names.include?( rec['country'] )
        puts "** !!! ERROR !!! no matching country name for:"
        pp rec
-       pp country
        pp names
-       pp normalize( rec[:country] )
+       pp country
        exit 1
      end
    end
