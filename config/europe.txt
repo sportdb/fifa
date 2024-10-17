@@ -32,6 +32,7 @@ hr   Croatia,              CRO,   fifa › uefa
 cy   Cyprus,               CYP,   fifa › uefa
        | Zypern [de]
 cz   Czech Republic,       CZE,   fifa › uefa
+      | Czech Rep.
       | Czechia
       | Tschechien [de]
 
@@ -76,6 +77,7 @@ lv   Latvia,               LVA,  fifa › uefa
       | Lettland [de]
       | lat
 li   Liechtenstein,        LIE,  fifa › uefa
+      | fl    # note - int'l vehicle (license) plate
 lt   Lithuania,            LTU,  fifa › uefa
       | Litauen [de]
       | lit
@@ -95,6 +97,7 @@ mt   Malta,                MLT,  fifa › uefa
 md   Moldova,              MDA,  fifa › uefa
       | Moldau [de]
 me   Montenegro,           MNE,  fifa › uefa
+      # note - int'l vehicle (license) plate mn taken by Mongolia !!!
 
 nl   Netherlands,          NED,  fifa › uefa
        | Niederlande [de]
@@ -117,6 +120,7 @@ sm   San Marino,  SMR,  fifa › uefa
 rs   Serbia,  SRB,      fifa › uefa
       | Serbien [de]
       | ser | serb
+      ## note - int'l vehicle (license) plate sb taken by Solomon Islands!!
 
 sk   Slovakia,  SVK,     fifa › uefa
       | Slowakei [de]
@@ -132,6 +136,8 @@ ch   Switzerland,  SUI,  fifa › uefa
 
 tr   Turkey,  TUR,   fifa › uefa
       | Türkei [de]
+      | Türkiye
+
 ua   Ukraine,  UKR,  fifa › uefa
 
 ## old kosovo version
@@ -156,6 +162,7 @@ ge   Georgia,              GEO,  fifa › uefa
 fo   Faroe Islands › DK,   FRO,  fifa › uefa
        | Färöer [de]
 gi   Gibraltar     › UK,   GIB,  fifa › uefa
+       |  gbz  # int'l vehicle (license) plate
 
 nkr  Artsakh        › AZ,  NKR   # note: NOT fifa or uefa member
 bsq  Basque Country › ES,  BSQ   # note: NOT fifa or uefa member
@@ -166,13 +173,23 @@ gal  Galicia        › ES,  GAL   # note: NOT fifa or uefa member
 trnc  Northern Cyprus › CY, TRNC  # note: NOT fifa or uefa member
 
 ## not members
-# - Great Britain - only all its member e.g. England/Wales/Scotland/Northern Irland
-uk   Great Britain,    GBR     # note: NOT fifa or uefa member
-       | gb
-eng  England          › UK, ENG,  fifa › uefa
+# - United Kingdom/Great Britain - only all its member
+##  e.g. England/Wales/Scotland/Northern Irland
+
+##  United Kingdom of Great Britain and Northern Ireland
+##   Great Britain (does NOT include Northern Ireland)
+##    merge uk and gb into one (country/record) - why? why not?
+##    GB (ENG/SCO/WAL) + NIRL = UK
+##  maybe plus gibraltar, jersey, etc. !!!!
+
+uk   United Kingdom,        UKM
+       | UK
+gb   Great Britain › UK,    GBR     # note: NOT fifa or uefa member
+
+eng  England          › GB, ENG,  fifa › uefa
        | en
-wal  Wales            › UK, WAL,  fifa › uefa
-sco  Scotland         › UK, SCO,  fifa › uefa
+wal  Wales            › GB, WAL,  fifa › uefa
+sco  Scotland         › GB, SCO,  fifa › uefa
       | Schottland [de]
 nir  Northern Ireland › UK, NIR,  fifa › uefa
       | N. Ireland
@@ -181,7 +198,7 @@ nir  Northern Ireland › UK, NIR,  fifa › uefa
 
 ## irregular codes
 va   Vatican City,  VAT    ## no "official" fifa code - listed in "irregular" codes
-      | Vatican
+      | Vatican | Holy See
       | v
 mc   Monaco,        MCO    ## no "official" fifa code - listed in "irregular" codes
        | mon     # alternate fifa code (use instead of MCO - why? why not?)

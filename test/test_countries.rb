@@ -32,6 +32,8 @@ class TestCountries < Minitest::Test
     ## new - test codes & names (virtual) helpers
     assert_equal ['eng', 'en'], eng.codes
     assert_equal ['England'],   eng.names
+    assert_equal 'English',     eng.adj
+    assert_equal ['English'],   eng.adjs
 
     assert_equal eng, Fifa['EN']
     assert_equal eng, Fifa[:en]
@@ -50,6 +52,8 @@ class TestCountries < Minitest::Test
     ## new - test codes & names (virtual) helpers
     assert_equal ['at', 'aut', 'a', 'ö'],   aut.codes
     assert_equal ['Austria', 'Österreich'], aut.names
+    assert_equal 'Österr.',                 aut.adj
+    assert_equal ['Österr.', 'Austrian'],   aut.adjs
 
     assert_equal aut, Fifa['AT']
     assert_equal aut, Fifa[:at]
@@ -90,7 +94,7 @@ class TestCountries < Minitest::Test
 
     ## new - test codes & names (virtual) helpers
     assert_equal ['us', 'usa'],            usa.codes
-    assert_equal ['United States', 'USA'], usa.names
+    assert_equal ['United States', 'US', 'USA'], usa.names
 
     assert_equal usa, Fifa['us']
     assert_equal usa, Fifa[:us]

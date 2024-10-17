@@ -12,7 +12,7 @@ qa   Qatar,                QAT,  fifa › afc › waff
 sa   Saudi Arabia,         KSA,  fifa › afc › waff
       | sau | saud
 ae   United Arab Emirates, UAE,  fifa › afc › waff
-      | UA Emirates
+      | UA Emirates | UAE
 ye   Yemen,                YEM,  fifa › afc › waff
 
 
