@@ -120,7 +120,6 @@ sm   San Marino,  SMR,  fifa › uefa
 rs   Serbia,  SRB,      fifa › uefa
       | Serbien [de]
       | ser | serb
-      ## note - int'l vehicle (license) plate sb taken by Solomon Islands!!
 
 sk   Slovakia,  SVK,     fifa › uefa
       | Slowakei [de]
