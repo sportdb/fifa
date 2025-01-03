@@ -1,4 +1,4 @@
-# require 'sports' - sports (football) quick starter samples 
+# require 'sports' - sports (football) quick starter samples & more
 
 
 ## Usage

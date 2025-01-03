@@ -1,0 +1,11 @@
+## ignore sqlite dbs for now
+*.db
+*.db-shm
+*.db-wal
+
+
+# more
+/tmp/
+logs.txt
+errors.txt
+
